@@ -75,7 +75,6 @@ async def stand(ctx):
     user = ctx.author.mention
 
     try:
-        # sorteia stand
         with open('stands.txt', 'r', encoding='utf-8') as arquivo_stand:
             stands = arquivo_stand.read().split(", ")
             stand_sorteado = random.choice(stands).strip()
