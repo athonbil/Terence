@@ -3,6 +3,7 @@ import discord
 from discord.ext import commands
 import random
 import re
+import pandas as pd
 
 # <---VARIÁVEIS--->
 
@@ -67,6 +68,26 @@ async def roll(ctx, dado: str):
         )
     except Exception as e:
         await ctx.send(f"⚠️ **Erro:** {e}")
+
+# comando de rolar stand
+@bot.command(name="stand")
+async def stand(ctx):
+    user = ctx.author.mention
+
+    try:
+        with open('stands.txt', 'r') as arquivo:
+            stands = arquivo.read().split(", ")
+            stand_sorteado = random.choice(stands).strip()
+            await ctx.send(
+                f"⭐ Seu espírito evoluiu, sua mente e seu corpo se fortaleceram.\n"
+                f"{user} acaba de despertar 🔥: \n"
+                f"**『{stand_sorteado}』** 💋"
+            )
+    except FileNotFoundError:
+        await ctx.send(f"⚠️ **Erro:** Arquivo não encontrado.")
+    except Exception as e:
+        await ctx.send(f"⚠️ **Erro:** {e}")
+
 
 # <---RODAR BOT--->
 bot.run("")
