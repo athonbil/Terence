@@ -1,0 +1,1024 @@
+Star Platinum
+Habilidades
+• Parar o tempo: Pode parar o tempo. (20 de energia para cada segundo parado) Inicialmente, é necessário uma rolagem de POTENTIAL para ativar.
+• Time Skip: Para o tempo por um segundo para se mover 2 metros (apenas movimentação). (5 de energia)
+• Star Finger: Um ataque de longo alcance que estende os dedos do stand até 5m. (10 de energia / rolagem de dano = 2d20+20)
+• Defender usuário: Star Platinum defende automaticamente o usuário contra ataques dos quais este esteja ciente, bloqueando o golpe. (15 de energia por ativação)
+• Pode defletir o Emerald Splash.
+• Super força, super velocidade, super sentidos e super precisão.
+• Voar: Durante combates contra The World, Star Platinum concede ao usuário a habilidade de voar. Essa habilidade só funciona se o oponente for o usuário de The World.
+• Alcance: 2m.
+POWER: A | SPEED: A | RANGE: E | DURABILITY: A | PRECISION: A | POTENTIAL: A
+
+Magician's Red
+Habilidades
+• Controle de chamas: Magician's Red pode manipular chamas que estejam dentro de seu alcance. (10 de energia por uso)
+• Criar chamas: MR é capaz de criar chamas de diferentes níveis de poder destrutivo. (E = 5 de energia, D = 10 de energia, ... A+ = 28 de energia)
+• Crossfire Hurricane: Cria Ankhs de chamas que podem alcançar 10m além do limite de alcance do stand. (15 de energia / Poder destrutivo: A)
+• Crossfire Hurricane Special: Divide a habilidade principal em 5 Ankhs menores, com poder destrutivo reduzido. (+10 de energia / Poder destrutivo: B)
+• Radar de calor: Magician's Red gera uma cruz de chamas que reage a sinais de calor no ambiente, indicando a localização da fonte mais quente. (Não gasta energia)
+• Alcance: 5m.
+POWER: A | SPEED: B | RANGE: D | DURABILITY: B | PRECISION: C | POTENTIAL: B
+
+Hermit Purple
+Habilidades
+• Clarividência: HP pode criar imagens usando objetos do cotidiano, como câmeras ou televisores. A clarividência pode ajudar a descobrir coisas que afetarão o usuário de alguma forma ou que possam ser úteis. (10 de energia para clarividência genérica / 15 de energia para específica - ajudar ou prejudicar)
+• Condução de Hamon: HP permite que o usuário conduza o Hamon por toda sua extensão de alcance, tornando os danos causados pelo stand 1 patamar mais fortes. (Gasto do Hamon)
+• Swing insano: HP auxilia o usuário em movimentos como se pendurar, puxar objetos para si, e outras ações similares. (Não gasta energia)
+• Alcance: 15m.
+POWER: C | SPEED: C | RANGE: C | DURABILITY: A | PRECISION: C | POTENTIAL: D
+
+Hierophant Green
+Habilidades
+• Emerald Splash: Libera uma substância viscosa que rapidamente se solidifica e é disparada das mãos de HG com grande dispersão. Possui alcance de 350m, causando 3d20+15 de dano. O Emerald Splash não pode ser defletido, exceto se algo explicitamente o permitir. (15 de energia / 2 turnos individuais de cooldown)
+• Emerald Barrier: Estendendo seu corpo, HG cria um campo de 20m repleto de "fios" compostos pelo corpo do stand. Quando pressionados, liberam diversos Emerald Splashes simultaneamente, causando 6d20+20 de dano. (35 de energia / 2 turnos individuais de cooldown)
+• Possessão: HG pode desfazer seu corpo e se esgueirar por pequenos orifícios no corpo de um alvo dentro de seu alcance, tomando controle do corpo. (15 de energia)
+• Alcance: 300m.
+POWER: C | SPEED: B | RANGE: A | DURABILITY: B | PRECISION: C | POTENTIAL: B
+
+Silver Chariot
+Habilidades
+• Espada: A lâmina de Silver Chariot garante seu poder destrutivo. Sem ela, o poder destrutivo é equivalente a E. A espada pode cortar quase qualquer tipo de material, desde papel e fogo até metais super-resistentes. (Não gasta energia / corta tudo que tiver DUR C ou menor sem rolagens)
+• Disparar espada: Silver Chariot pode disparar a ponta de sua espada, que quica e ricocheteia até atingir o alvo desejado. (10 de energia // deve recuperar a lâmina // causa 2d20+15 de dano)
+• Armadura: Silver Chariot é manifestado com uma armadura de metal que protege o usuário de danos fatais nas regiões cobertas (olhos e juntas não são protegidos). A armadura garante DUR B. Silver Chariot pode remover a armadura para ganhar HIPER VELOCIDADE, reduzindo sua DURABILIDADE para E e seu ALCANCE para 50cm. (20 de energia para remover armadura // requer descanso para recuperá-la)
+    Enquanto está sem armadura, Silver Chariot recebe os seguintes benefícios:
+    Espadachim supremo: A espada de Silver Chariot ganha dano equivalente a A.
+    Afterimage: Torna-se tão rápido que cria até 4 imagens do stand, concedendo +3 em testes para atacar os alvos. (20 de energia)
+    Prioridade em empates: Em caso de empate, Silver Chariot pode garantir vitória no teste. (25 de energia)
+Super Velocidade e Super Precisão.
+• Alcance: 1,5m.
+POWER: C | SPEED: A | RANGE: E | DURABILITY: B | PRECISION: A | POTENTIAL: C
+
+Tower of Gray
+Habilidades
+• Ferrão: Tower of Gray possui um ferrão com Super Força, capaz de perfurar qualquer corpo com DUR B ou menor. Apesar de não ser fisicamente forte, o ferrão compensa sua fragilidade. (10 de energia por uso)
+• Super Velocidade: Tower of Gray é extremamente rápido, sendo capaz de executar ações em alta velocidade e dificultar a resposta dos adversários.
+• Alcance: 200m.
+OWER: E | SPEED: A | RANGE: A | DURABILITY: C | PRECISION: C | POTENTIAL: E
+
+Dark Blue Moon
+Habilidades
+• Turbilhões: DBM pode gerar turbilhões na água que puxam qualquer corpo para o fundo, dificultando a mobilidade de quem não é minimamente habilidoso em natação. Esses turbilhões impõem uma penalidade de -3 em rolagens de mobilidade em água. O usuário pode propor um teste de POW de DBM contra o FIS do alvo para aumentar a penalidade em mais -3. (15 de energia para criar o turbilhão; 10 de energia para aumentar o poder)
+• Escamas: DBM pode atirar escamas afiadas que causam 3d20+15 de dano. As escamas perfuram qualquer corpo com DUR C ou menor sem necessidade de rolagem. (15 de energia)
+• Controlar criaturas marinhas: DBM pode colocar cracas em criaturas marinhas, permitindo ao usuário dar ordens simples (como "ataque tal pessoa" ou "me tire daqui"). (10 de energia.)
+• Apnéia: O usuário pode permanecer facilmente até 10 minutos debaixo d'água. Esse limite pode ser aumentado em +5 minutos. (Não consome energia para os primeiros 10 minutos; 20 de energia para aumentar o tempo.)
+• Alcance: 10m.
+POWER: C | SPEED: C | RANGE: C | DURABILITY: B | PRECISION: C | POTENTIAL: D
+
+Ebony Devil
+Habilidades
+• Contador de Ódio: Ebony Devil possui um contador que começa em 0 e pode ir até 7.
+• Amplificação de Ódio:
+Cada vez que o usuário recebe dano, o contador de ódio é incrementado em +1.
+O stand pode possuir um objeto dentro de seu alcance (110m). O objeto assume os atributos do stand e, com base no contador de ódio, pode aumentar os patamares de seus atributos (máximo de A).
+O custo para possuir um objeto é de 10 de energia.
+Limitações:
+Danos causados diretamente ao stand não aumentam o contador de ódio.
+Após cada combate, os atributos do stand voltam ao normal, e o ódio consumido não é restaurado.
+• Alcance de 110m.
+POWER: D | SPEED: D | RANGE: A | DURABILITY: D | PRECISION: B | POTENTIAL: D
+
+Yellow Temperance
+Habilidades
+• Assimilação de carne: Yellow Temperance pode absorver carne de animais, plantas e seres humanos mortos para aumentar seu alcance. O aumento no alcance é proporcional ao tipo de carne absorvida:
+Plantas: +0,5m (10 de energia).
+Animais: +1m (10 de energia).
+Humanos (mortos): +1,5m (10 de energia).
+• Absorção de dano: Yellow Temperance pode defender o usuário ao rolar com modificador 28, absorvendo completamente o dano recebido e protegendo o usuário. Custa 5 de energia por defesa.
+• Disfarce: O stand pode envolver completamente o corpo de seu usuário, alterando todas as características físicas, permitindo ao usuário assumir a aparência de qualquer pessoa. Custa 20 de energia por uso.
+• Fraqueza: Yellow Temperance não consegue grudar-se em corpos ou utilizar suas habilidades de assimilação caso esses estejam molhados por qualquer tipo de líquido. As habilidades ficam inutilizadas até que os corpos estejam secos e o stand seja retirado de ambientes líquidos.
+• Alcance de 2m.
+POWER: E | SPEED: C | RANGE: E | DURABILITY: A | PRECISION: D | POTENTIAL: B
+
+Hanged Man
+Habilidades
+• Reflexão: Hanged Man pode se locomover através de superfícies reflexivas, atacando através dessas reflexões. O dano causado ao alvo é "espelhado" no corpo do mundo real. Custa 5 de energia para se mover por reflexão.
+• Cascão: Hanged Man impede que gotas de chuva atinjam o usuário, protegendo-o da água. Custa 2 de energia por chuva.
+• Super Velocidade: Hanged Man possui super velocidade, permitindo-lhe mover-se rapidamente durante as batalhas.
+• Alcance de 150m: Hanged Man pode se mover e atacar à distância de até 150 metros.
+POWER: C | SPEED: A | RANGE: A | DURABILITY: C | PRECISION: D | POTENTIAL: D
+
+Wheel of Fortune
+Habilidades
+• Envenenamento: WoF pode transformar qualquer carro (mesmo em estado deplorável) em uma máquina das ruas, assumindo uma aparência extremamente poderosa. Aumenta as rolagens de CAR do usuário em +3 enquanto está dentro do veículo melhorado. Custa 5 de energia para melhorar o carro. (A habilidade é aplicada uma vez, e o bônus é dado apenas enquanto o carro estiver melhorado.)
+• Carro: WoF, sendo um carro transformado em stand, tem colisões com o mundo físico. Porém, o stand pode ignorar colisões com obstáculos pequenos como pedras ou animais de rua.
+• Balas de gasolina: WoF pode atirar balas feitas de sua própria gasolina. Essas balas possuem SPD igual à velocidade do carro +3 e POW equivalente a B. Elas causam 1d10 de dano direto na vida, além do dano normal rolado. Custa 15 de energia por disparo.
+• Direção aprimorada: WoF pode se distorcer para entrar em qualquer fenda, permitindo ao carro continuar a dirigir por terrenos impossíveis. Custa 20 de energia.
+• Aprimoramento de direção: Ao dirigir o carro transformado de WoF, o usuário recebe um bônus de PRE em A e +3 na perícia de dirigir. Custa 30 de energia.
+• Comunicação por rádio: WoF pode se conectar com rádios num raio de 40m, permitindo ao usuário se comunicar via rádio. Custa 10 de energia.
+POWER: B | SPEED: B | RANGE: ∅ | DURABILITY: A | PRECISION: E | POTENTIAL: D
+
+Emperor
+Habilidades
+• Balas infinitas: Emperor não fica sem balas, sempre podendo disparar.
+• Alterar trajetória: Emperor pode alterar a trajetória de suas balas à vontade, rolando com mod.28. Custa 10 de energia por alteração.
+• Alcance: 50m (tiro).
+POWER: B | SPEED: B | RANGE: B | DURABILITY: C | PRECISION: ∅ | POTENTIAL: E
+
+Lovers
+Habilidades
+• Reflexão de dano: Lovers pode entrar dentro do corpo de um alvo, refletindo todo o dano que o usuário recebe de volta no alvo. Custa 15 de energia para ativar a reflexão.
+• Réplicas: Lovers pode consumir células mortas do alvo para criar réplicas do stand. Caso uma réplica seja destruída, duas novas réplicas são criadas em seu lugar.
+• Alcance: 250m.
+POWER: E | SPEED: D | RANGE: A | DURABILITY: A | PRECISION: D | POTENTIAL: E
+
+High Priestess
+Habilidades
+• Manipulação de minérios: High Priestess pode assimilar qualquer tipo de minério e alterar sua forma conforme desejar. Custa 10 de energia por alteração.
+• Alcance: 210m.
+POWER: C | SPEED: B | RANGE: A | DURABILITY: A | PRECISION: D | POTENTIAL: D
+
+The Fool
+Habilidades
+• Controle de areia: The Fool tem controle total sobre areia, o que o torna um stand muito versátil. Ele pode assumir várias formas e alterar a densidade da areia conforme necessário. Devido à sua composição, é praticamente impossível causar dano a ele. Custa 10 de energia por uso.
+• Alcance: 5m.
+POWER: B | SPEED: C | RANGE: D | DURABILITY: C | PRECISION: D | POTENTIAL: B
+
+Geb
+Habilidades
+• Manifestação na água: Geb só pode se manifestar através da água, aparecendo na forma de uma mão capaz de arrancar a face de um humano e triturá-la com facilidade. Custa 10 de energia para manifestar.
+• Alcance: 510m.
+POWER: A | SPEED: B | RANGE: A | DURABILITY: B | PRECISION: D | POTENTIAL: D
+
+Anubis
+Habilidades
+• Corte seletivo: Anubis pode escolher o que cortar, atravessando objetos sem causar danos àquilo que ele não deseja cortar, atingindo o que está atrás. Custa 10 de energia.
+• Desenvolvimento: Anubis aprende as técnicas usadas contra ele em combate. Quando ele enfrenta o mesmo oponente novamente e essa técnica for usada, o usuário pode bloquear a técnica como uma parry, sem necessidade de rolagem, abrindo uma brecha para um ataque do usuário. Custa 20 de energia.
+• Personalidade própria: Anubis tem uma personalidade própria e tenta convencer o usuário a seguir suas vontades. Caso o usuário resista de forma drástica, um teste de INT (usuário) vs POT (Anubis) é feito para forçar o usuário a agir conforme a vontade do stand.
+POWER: B | SPEED: B | RANGE: ∅ | DURABILITY: B | PRECISION: ∅ | POTENTIAL: A
+
+Horus
+Habilidades
+• Criar gelo: Horus é capaz de gerar gelo de qualquer formato e em qualquer lugar dentro de seu alcance. Custa 10 de energia para usar essa habilidade.
+• Controlar gelo: Horus pode controlar o gelo que criou, podendo dispará-lo, alterar sua forma e manipulá-lo de outras formas. Custa 10 de energia por uso.
+• Alcance: 5m
+POWER: B | SPEED: B | RANGE: D | DURABILITY: C | PRECISION: C | POTENTIAL: B
+
+Cream
+Habilidades
+• Flexibilidade: Cream possui uma flexibilidade excepcional, capaz de se dobrar quase por completo, podendo devorar a si mesmo ou ao usuário sem causar danos.
+• Barrigua d'água: Tudo que Cream devora é transportado para uma dimensão dentro de seu estômago. O usuário pode recuperar esses corpos simplesmente fazendo com que Cream os vomite. Custa 15 de energia para enviar algo à outra dimensão e 5 de energia para fazer Cream vomitar o corpo.
+• Vácuo: Ao devorar seu usuário e a si mesmo, Cream cria um campo de vácuo de 1 metro. Qualquer coisa que entrar em contato com esse vácuo será "apagada", causando dano direto na vida do alvo. No entanto, o usuário perde a capacidade de enxergar enquanto essa habilidade está ativa. Custa 20 de energia.
+• Acesso Dimensional: Cream pode realizar um Ouroboros, criando uma conexão dimensional. O usuário pode enxergar enquanto a habilidade está ativa, mas não pode apagar nada. A troca para o vácuo custa 10 de energia, e a troca de volta para a habilidade de apagar custa mais 10 de energia.
+• Alcance: 1m
+POWER: A | SPEED: B | RANGE: E | DURABILITY: C | PRECISION: E | POTENTIAL: E
+
+The World
+Habilidades
+• Parar o Tempo: The World pode parar o tempo, afetando todos, exceto o usuário. Cada segundo parado consome 10 de energia.
+• Time Skip: O usuário pode parar o tempo por 1 segundo para se mover 2 metros (apenas movimentação). Custa 5 de energia.
+• Defletir o Emerald Splash: The World pode defletir o ataque "Emerald Splash".
+• Super Força, Super Velocidade e Super Sentidos: The World possui uma grande capacidade de força, velocidade e sentidos apurados.
+• Voar: Durante uma luta contra o usuário de Star Platinum, The World concede ao seu usuário a habilidade de voar, mas apenas durante essa luta.
+• Alcance: 2m
+
+POWER: A | SPEED: A | RANGE: E | DURABILITY: A | PRECISION: B | POTENTIAL: A
+Super Sentidos: Os super sentidos de The World são rolados com um valor fixo de 28.
+
+Crazy Diamond
+Habilidades
+• Restauração: Crazy Diamond pode reverter um corpo ao seu estado original. A restauração pode fazer com que um corpo composto seja dividido e seus componentes restaurados, como pegar um prato de espaguete e retorná-los ao cru. (10 de energia)
+• Restauração Precisa: A restauração de Crazy Diamond pode ser feita de maneira mais precisa, permitindo restaurar apenas uma parte do corpo ou objeto. Exemplo: alterar letras de uma placa. (5 de energia)
+• Super Força e Super Velocidade: Crazy Diamond possui uma grande capacidade de força e velocidade.
+• Alcance: 2m
+POWER: A | SPEED: A | RANGE: E | DURABILITY: B | PRECISION: B | POTENTIAL: C
+Função Adicional:
+• Soco Restaurador: Crazy Diamond pode utilizar seus socos para realizar restaurações, gastando 10 de energia para isso. O soco cura 2d20 na vida do alvo.
+• Barragem Restauradora: Barragens também podem ser usadas para restaurações. O gasto de energia é equivalente à metade do valor resultante do dado de dano da barragem (arredondado para cima).
+
+The Hand
+Habilidades
+• Apagar: Tudo que a mão direita de The Hand toca pode ser simplesmente apagado. (10 de energia)
+• Apagar 2: Caso o usuário precise apagar algo específico, The Hand pode realizar o apagamento de um conjunto de coisas, como roupa ou pelos. Para isso, é necessário um teste de inteligência. Se for bem-sucedido, a tarefa é realizada; caso contrário, o apagamento falha e causa uma diminuição de INT (-3 em todas as rolagens de INT) até um descanso ser realizado. (20 de energia / 5 de energia se falhar)
+• Apagar Espaço: The Hand pode apagar o espaço para "teletransportar" o usuário em até 5m de distância ou puxar um corpo que está a até 5m para perto de The Hand. (5 de energia)
+• Apagar = Aceleração: The Hand pode apagar o espaço entre seu punho e o alvo (desde que esteja dentro do alcance do stand) e realizar uma ação com SPEED A. (15 de energia)
+• Triplo Apagar: The Hand pode realizar um combo de 3 Apagar com poder diminuído (2d20+10 direto na vida do alvo), gastando menos energia. O combo é realizado sucessivamente, ou seja, não pode apagar uma vez, esperar, e apagar mais duas vezes, mas pode reduzir a quantidade de Apagar realizados (não torna a habilidade mais barata). (15 de energia)
+• Barragem de Apagamento: The Hand pode realizar uma barragem usando sua mão direita para apagar o espaço entre o alvo e o punho do stand, acelerando o ritmo da barragem (SPEED A). O dano da barragem recebe +3d20+10, causados diretamente na vida do alvo (não acerta pontos vitais). (Gasto da barragem + 30 de energia)
+
+Alcance: 2m
+
+POWER: B | SPEED: B | RANGE: E | DURABILITY: B | PRECISION: C | POTENTIAL: C
+
+Echoes ATO 1
+Habilidades
+• Geração de Sons: Onde Echoes ATO 1 ou seu usuário tocam, pode-se colocar uma onomatopeia que reproduzirá o som dessa onomatopeia. Essa habilidade pode funcionar de várias maneiras:
+Apenas quem toca na onomatopeia pode ouví-la (não gasta energia)
+Apenas usuários de stand podem ouvir as onomatopeias (não gasta energia)
+Até mesmo não-usuários de stand podem ouvi-la (5 de energia)
+Echoes ATO 1 permite que seu usuário controle o volume da onomatopeia e o quanto ela influencia a mente da pessoa que a ouve (deve estar com a onomatopeia colada no corpo para isso). Para isso, deve rolar um teste de INT do alvo contra o POW da onomatopeia:
+    E: Um som muito baixo, pessoas num raio de até 2m podem ouvir (5 de energia)
+    D: Um som baixo, pessoas num raio de até 5m podem ouvir (10 de energia)
+    C: Um som médio, pessoas num raio de até 15m podem ouvir (15 de energia)
+    B: Um som alto, pessoas num raio de até 50m podem ouvir (20 de energia)
+    A: Um som muito alto, pessoas num raio de até 100m podem ouvir (25 de energia)
+Alcance: 50m
+POWER: E | SPEED: E | RANGE: B | DURABILITY: B | PRECISION: C | POTENTIAL: A
+
+Aqua Necklace
+Habilidades
+• Liquefação: Por ser um stand líquido, Aqua Necklace possui as propriedades de um líquido, podendo evaporar, congelar, etc. Além disso, ele pode se misturar com outros líquidos e alterar suas características, como estado físico, cor, formato, etc. (10 de energia para alterar)
+• Possessão: Aqua Necklace pode entrar no corpo de uma pessoa e controlá-la. No entanto, é necessário que o alvo faça uma rolagem de INT contra a INT do usuário de Aqua Necklace. Caso o usuário falhe, o stand será expelido e não poderá entrar no corpo da mesma pessoa por 3 turnos individuais. (35 de energia)
+Alcance: 110m
+POWER: B | SPEED: C | RANGE: A | DURABILITY: C | PRECISION: C | POTENTIAL: E
+
+Red Hot Chili Pepper
+Habilidades
+• Energia Própria: RHCP possui seu próprio contador de energia que vai de 0 até 100, servindo para armazenar a energia de Chili Pepper para usar em suas habilidades.
+• Absorver Energia: Red Hot Chili Pepper pode absorver energia elétrica e acumulá-la em seu contador. Sua absorção é de 2d20 por turno — pode absorver também do usuário.
+• Descarga Elétrica: Com sua carga (ou energia do usuário), Chili Pepper pode descarregar energia de diferentes formas:
+Flash: Gastando sua energia, ele produz um clarão que reduz a percepção dos que o estão vendo (sem proteção) em 1 LETRA. (40 de energia / 2 turnos de cooldown)
+Electro-Enhanced Ultra Fist: Ao gastar energia, Chili Pepper pode aumentar sua SPEED e POWER em 1 PATAMAR. (25 de energia)
+Rajada Elétrica: RHCP pode descarregar uma rajada de energia com alcance de até 4m (em relação ao stand), que pode causar paralisia (teste de resistência física do alvo vs. potência da rajada).
+E = 5 de energia, D = 5 - limite A, causa 2d20 + Potência da rajada.
+Aprimoramento: Chili Pepper pode liberar energia em seu corpo, aprimorando todos seus atributos (exceto PRECISION e POTENTIAL), recebendo Super Velocidade. (50 de energia / 10 de energia por turno individual)
+Alcance: 100m / Onde houver corrente elétrica
+Base:
+POWER: E | SPEED: C | RANGE: A | DURABILITY: E | PRECISION: C | POTENTIAL: A
+Aprimorado:
+POWER: A | SPEED: A | RANGE: A | DURABILITY: A | PRECISION: C | POTENTIAL: A
+
+Harvest
+Habilidades
+• Colônia: Harvest é um stand de colônia, o que significa que todo dano causado ao stand é dividido por 4 no usuário.
+• Coletar objetos pequenos: Harvest se espalha pelo seu raio de alcance para procurar objetos desejados pelo usuário, desde que sejam pequenos.
+• Sorte na busca: Para procurar itens, o usuário pode aumentar seu patamar de sorte em 2 LETRAS, mas apenas para a busca. (30 de energia)
+• Injeção de líquidos: Harvest pode sugar líquidos de qualquer tipo e injetá-los em algo. (10 de energia para sugar / limite de 10ml por indivíduo)
+• Coletar objetos maiores: Caso o usuário deseje, Harvest pode buscar objetos de até 1,75m de altura (como um humano). (20 de energia)
+Alcance: 500m
+POWER: E | SPEED: B | RANGE: A | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Pearl Jam
+Habilidades
+• Leitura de mãos: O usuário de Pearl Jam pode ler os problemas do corpo do alvo ao examinar suas mãos.
+• Super habilidades de culinária: O usuário de Pearl Jam é capaz de preparar qualquer prato, desde que tenha os ingredientes necessários, sem precisar rolar para determinar o sucesso da culinária.
+• Culinária mágica: Ao cozinhar, o usuário pode incorporar seus Pearl Jam nos alimentos, conferindo-lhes propriedades curativas. Após consumir o prato preparado, o alvo recupera 2d12 + POT (stand) de vida e o problema detectado pela Leitura de mãos é resolvido de forma drástica, mas com um processo algo grotesco. Após esse processo, o corpo do alvo se torna perfeitamente normal. (10 de energia)
+Alcance: 50m
+POWER: E | SPEED: C | RANGE: B | DURABILITY: A | PRECISION: C | POTENTIAL: C
+
+Cinderella
+Habilidades
+• Cirurgia Plástica: Cinderella pode alterar a aparência de qualquer pessoa com o toque do stand (o procedimento dura 1 turno). Além disso, a plástica pode ter duração determinada pelo usuário, com consequências caso o procedimento não seja seguido corretamente (como um simples batom que pode deixar o alvo feio). A habilidade pode ser cancelada se o alvo acertar qual é seu rosto, sendo necessário rolar para testar CAR (autoestima) e história para lembrar-se da aparência. (15 de energia)
+• Armazenar características removidas: Cinderella pode armazenar características removidas de seus alvos em suas mãos. (5 de energia para reutilizar as características)
+• Sorte no amor: Ao realizar uma Cirurgia Plástica, Cinderella concede ao alvo sorte no amor em relação a alguém por quem ele se sinta atraído, concedendo +3 em rolagens de CAR e SOR para a ocasião. (15 de energia)
+• Super Precisão: Habilidade passiva que aumenta a precisão das ações de Cinderella, permitindo efeitos mais exatos.
+Alcance: 5m
+POWER: E | SPEED: C | RANGE: D | DURABILITY: C | PRECISION: A | POTENTIAL: B
+
+Highway Star
+Habilidades
+• Sala Fantasma: Highway Star pode criar uma sala fantasma para um alvo específico usando itens que o interessem (memórias, objetivos, etc.). Para isso, o usuário ou o stand devem sentir o cheiro desse alvo. (20 de energia)
+• Absorver nutrientes: Highway Star pode se infiltrar no corpo de um alvo e drenar energia, calculando 2d20 + POWER contra 1d10 + FIS do alvo. Caso o alvo falhe na resistência física, ele recebe uma penalidade de -3. (15 de energia)
+• Forma pé: Highway Star pode se dividir em vários pés que perseguem o alvo a partir de seu cheiro. Esses pés têm física com o mundo físico. (10 de energia)
+• Super olfato: Concede ao usuário um olfato extremamente apurado (habilidade singular).
+Alcance: 130m
+POWER: E | SPEED: B | RANGE: A | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+Killer Queen (4)
+Habilidades
+• Bomba primária: Killer Queen pode transformar tudo que toca em uma bomba (exceto stands). O usuário tem controle sobre o poder da explosão e pode decidir se o objeto ou quem o tocou vai explodir. (10 de energia)
+• Sheer Heart Attack: Uma manifestação secundária de Killer Queen que sai de sua mão esquerda. Sheer Heart Attack ataca sempre o alvo mais quente e possui um poder de explosão igual ao de Killer Queen, além de ter Super Resistência. (15 de energia)
+Alcance: 2m / 200m (Sheer Heart Attack)
+KILLER QUEEN:
+POWER: A | SPEED: B | RANGE: E | DURABILITY: B | PRECISION: B | POTENTIAL: A
+SHEER HEART ATTACK:
+POWER: A | SPEED: C | RANGE: A | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+Gold Experience
+Habilidades
+• Criar vida: Gold Experience pode criar vida a partir de objetos inertes, gerando criaturas de várias espécies. Quando alguém agride uma criatura criada por Gold Experience, metade do dano é retornado ao agressor (caso o usuário deseje). (10 de energia / +10 de energia para retornar metade do dano)
+• Criar partes corporais: Gold Experience pode criar partes específicas de um corpo, assim como cria criaturas de objetos inertes. Isso pode ser utilizado para curar aliados e o próprio usuário. (20 de energia / é uma cura dolorosa)
+• Aceleração de pensamentos: Ao acertar um alvo no rosto, Gold Experience pode acelerar seus pensamentos, fazendo com que a vítima perceba um aumento na sua velocidade e força, mas na realidade, o corpo se torna 1 LETRA mais devagar e recebe -3 de FIS. (25 de energia)
+POWER: C | SPEED: A | RANGE: E | DURABILITY: D | PRECISION: C | POTENTIAL: A
+
+Sticky Fingers
+Habilidades
+• Zíperes: Sticky Fingers pode, com seu toque, criar zíperes em qualquer corpo e manipulá-los parcialmente. Essa habilidade é muito versátil e pode ser usada de diversas maneiras. (10 de energia para os zíperes)
+• Extensão: Sticky Fingers, com seus zíperes, pode estender membros de qualquer corpo. O controle desses membros estendidos é dado pelo próprio stand, ou seja, ninguém além do usuário controla as extensões. (10 de energia // alcance máximo de 1m por membro)
+• Mundo do Zíper: Sticky Fingers pode, ao invés de abrir os zíperes para o exterior, criar um mundo no interior de objetos ou seres vivos, onde o stand terá noção do que está acontecendo ao redor. (20 de energia / só funciona se o objeto tiver algum espaço oco)
+POWER: A | SPEED: A | RANGE: E | DURABILITY: D | PRECISION: C | POTENTIAL: B
+
+Moody Blues
+Habilidades
+• Replay: Moody Blues pode reproduzir eventos passados, desde que o usuário tenha pelo menos uma pista sobre o que aconteceu. O stand pode realizar ações idênticas às realizadas no passado e interagir normalmente com o mundo físico. A duração do replay varia conforme o tempo do evento:
+Custo: 10 de energia
+Tempo de Execução:
+    Instantâneo (segundos - minutos)
+    1 Ação (horas - dias)
+    1 Turno (semanas - meses)
+    2 Turnos (anos)
+• Controle de Reprodução: Durante o replay, o usuário pode controlar aspectos como pausar, acelerar, voltar e aplicar efeitos para ajudar na investigação do que aconteceu; (5 de energia)
+• Diminuição de Tempo de Rebobinar: Moody Blues pode diminuir o tempo necessário para realizar o replay, reduzindo um nível no tempo requerido; (20 de energia)
+POWER: C | SPEED: C | RANGE: A | DURABILITY: A | PRECISION: C | POTENTIAL: C
+
+Sex Pistols
+Habilidades
+• Controle de Balas: Sex Pistols pode controlar as balas disparadas por armas, alterando sua trajetória ao seu favor. O controle depende das balas com pistols em cima delas, permitindo mudar a direção com base na quantidade de pistols presentes; (5 de energia por controle - a quantidade de pistols depende da bala)
+• Carregamento rápido: Sex Pistols pode carregar a arma do usuário de forma rápida e dinâmica. Esse processo pode ser feito a qualquer momento. Em combate, é necessário rolar a combinação de SPD de Sex Pistols + 3 para realizar a troca, mas se não houver necessidade de rolagem, a arma é recarregada automaticamente; (não gasta energia)
+• Proteção contra projéteis: Sex Pistols protege o usuário contra projéteis comuns (não inclui projéteis de stands), fazendo com que o usuário não precise rolar para desviar; (5 de energia)
+POWER: E | SPEED: B | RANGE: B | DURABILITY: A | PRECISION: A | POTENTIAL: B
+
+Aerosmith
+Habilidades
+• Avião de combate: Aerosmith é um stand na forma de um avião de combate. Quando partes de Aerosmith são danificadas (como hélices ou asas), o dano não é refletido completamente no usuário, a menos que se tire 1 no dado de DUR ou o oponente tire 12 no teste de POW. Caso contrário, o dano é normal.
+Nota: A dano do stand não é transmitido ao usuário de forma total.
+• Hélice: A hélice de Aerosmith é capaz de cortar facilmente qualquer corpo com DUR C ou menor, causando sangramento (1d4 de dano por turno). Se o usuário deseja cortar uma parte do alvo, um teste de POW vs DUR deve ser feito.
+• Lil' Bomber: Aerosmith tem uma mini bomba que pode destruir facilmente corpos pequenos (totalmente) e médios (parcialmente). O dano causado pela bomba é sempre 3d20+25 e pode ser usada apenas três vezes. Para recuperar as bombas, Aerosmith precisa descansar.
+Custo: 25 de energia
+• Metralhadoras: Aerosmith possui uma metralhadora que pode disparar uma rajada de tiros. Os tiros perfuram superficialmente qualquer corpo com DUR C ou menor sem necessidade de rolagem, causando sangramento. A barragem de tiros causa 3d20+20 de dano, e para causar danos graves, um teste de POW é necessário.
+Custo: Gasto da barragem
+• Rastreador: Aerosmith pode detectar dióxido de carbono em um raio de 5m e enviar essas informações em tempo real para o usuário por meio de um visor que aparece diante de um de seus olhos.
+Custo: 10 de energia
+POWER: B | SPEED: B | RANGE: B | DURABILITY: B | PRECISION: C | POTENTIAL: D
+
+Purple Haze
+Habilidades
+• Vírus: As três cápsulas presentes nas costas das mãos de Purple Haze contêm um vírus mortal que mata rapidamente qualquer ser vivo que seja infectado, causando 2d20+POW direto na vida por turno (enquanto infectado). O vírus é extremamente frágil e morre 2 turnos (individuais) depois de ser liberado. Purple Haze é o único que não é afetado pelo seu próprio vírus.
+Custo: 30 de energia (quebra proposital das cápsulas), 15 de energia (liberação imprevista)
+• Disparar cápsulas: Purple Haze pode disparar as cápsulas que contém seu vírus, realizando um ataque à distância.
+Custo: 20 de energia
+• Personalidade própria: Purple Haze é um stand furioso, com mania de limpeza, sendo trapalhão e selvagem. Ele se irrita facilmente, realizando ataques até contra aliados do usuário caso seja perturbado. Todo gasto de energia causado por Purple Haze sem a autorização do usuário é cortado pela metade (arredondado para baixo).
+Nota: Purple Haze pode identificar seus alvos a partir do usuário.
+• Purple Haze - Distortion: Enquanto o usuário está com sua determinação ativa (aura também conta), Purple Haze torna-se 100% controlável (recebendo PRE B), e seu vírus pode ser controlado para afetar apenas os alvos desejados, mesmo que o usuário e seus aliados estejam dentro do raio da névoa de vírus. Purple Haze pode até eliminar vírus previamente liberados, funcionando como um tratamento contra sua própria habilidade.
+Alcance: 5m
+POWER: A | SPEED: B | RANGE: D | DURABILITY: C | PRECISION: C | POTENTIAL: A
+
+Mr. President
+Habilidades
+• Quarto Secreto: Ao manifestar sua chave, uma pessoa pode entrar em um quarto escondido nela. Esse quarto se assemelha a um quarto de hotel, com sofá, mesa de centro, televisão e refrigerador. Estranhamente, o quarto possui energia elétrica.
+• Alcance: 20cm
+
+POWER: ∅ | SPEED: E | RANGE: E | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Spice Girl
+Habilidades
+• Amolecimento: Com o contato de Spice Girl ou de seu usuário, um objeto (seres vivos não contam) se amolece, tornando-se semelhante a uma massa de vidraceiro ou borracha. Esse amolecimento torna o objeto impossível de ser quebrado ou perfurado, podendo ser usado como uma cama-elástica para corpos. (10 de energia)
+• Destruir objetos amolecidos: Ao reverter o objeto amolecido ao seu estado original, tanto Spice Girl quanto seu usuário podem decidir se o objeto será destruído ou não, sem precisar de rolagens. O objeto ficará deformado, quebrado, torto, etc. (10 de energia)
+• Personalidade própria: Spice Girl tem uma personalidade própria, sendo capaz de aconselhar seu usuário e analisar a situação com seu ponto de vista. Um traço forte na personalidade do stand é que Spice Girl considera hesitação uma fraqueza, enquanto considera determinação, coragem e força de vontade coisas nobres e admiráveis, elogiando uma determinação quando vê uma. Outro traço de sua personalidade é que Spice Girl é impiedosa em confrontos contra oponentes que não demonstram nenhum sinal de nobreza em seu estilo de luta.
+• Alcance: 2m
+POWER: A | SPEED: A | RANGE: E | DURABILITY: B | PRECISION: D | POTENTIAL: C
+
+Black Sabbath
+Habilidades
+• Julgamento: Black Sabbath só se manifesta quando alguém desobedece à vontade do usuário (quando ela é bem explícita). Nesse momento, o stand vai atrás do alvo e o ataca com o objetivo de matá-lo. Porém, o usuário não tem noção disso (mas pode saber - não controlá-lo - gastando mais energia) e o dano dado no stand não é refletido no usuário; (10 de energia / 15 de energia para ter noção de onde o stand está)
+• Agarrar: Para agarrar alvos, Black Sabbath pode rolar com POW A; (15 de energia)
+• Controle de Sombras: Black Sabbath pode locomover-se livremente por sombras próximas. Além disso, BS pode puxar os objetos reais a partir da sombra e levá-los para onde quiser (se o objeto for, de alguma maneira comum, movido). Black Sabbath pode também sumir em sombras em que ele está em cima; (10 de energia para se locomover / 15 para levar sombras / 5 para se desfazer em sombra)
+• Manifestação à Força: Black Sabbath pode ser manifestado caso o usuário deseje. Entretanto, o usuário passa a receber dano assim como Black Sabbath; (5 de energia)
+• Alcance: 500m / Irrelevante (no caso de Julgamento)
+POWER: E | SPEED: A | RANGE: A | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Soft Machine
+Habilidades
+• Murchar: Tudo que o sabre de Soft Machine perfurar ou cortar vai murchar rapidamente, tornando-se extremamente fácil de carregar e incapaz de fazer qualquer coisa - incluindo utilizar seu stand (e pode ser dobrado facilmente). Em caso de um bem-sucedido entre POW (stand) vs FIS (alvo), Soft Machine causa 2d20+POW direto na vida do alvo; (15 de energia / afeta stands / seu usuário é o único que pode se murchar sem ficar incapacitado)
+• Alcance: 2m
+POWER: A | SPEED: C | RANGE: E | DURABILITY: A | PRECISION: D | POTENTIAL: E
+
+Kraftwerk
+Habilidades
+• Controle de Energia Cinética: Kraftwerk garante a seu usuário a habilidade de manipular a energia cinética de qualquer coisa que o stand ou o usuário toque. Isso pode ser usado para paralisar objetos no ar, fazê-los flutuar e muito mais; (15 de energia)
+• Acúmulo para Projéteis: Caso o usuário deseje usar um objeto sobre a habilidade de Kraftwerk como um projétil, a cada 3 toques a SPEED do projétil é incrementado em 1 patamar, junto à isso, o POW do projétil é sempre considerado A; (25 de energia / limite de SPEED = A)
+• Travar Posições: Quando Kraftwerk ou seu usuário tocam em algo, eles podem remover toda a energia cinética do que tocaram, assim fixando-o na posição que está (isso funciona apenas no que foi tocado, caso toque na mão fechada de uma pessoa, apenas a mão ficará imóvel - pode ser mais preciso com o que fixar); (10 de energia)
+• Alcance: 2m
+• Fixação: Tudo que foi fixado numa área de 10m do usuário permanece assim. Caso o objeto saia do alcance ou o usuário queira (no caso de estar dentro do alcance), a habilidade é cancelada.
+
+POWER: A | SPEED: A | RANGE: E | DURABILITY: C | PRECISION: C | POTENTIAL: C
+
+Little Feet
+Habilidades
+• Encolhimento: Little Feet pode encolher tudo que ele corta com seu dedo indicador. O usuário pode controlar se o encolhimento é gradativo (a cada turno o alvo fica menor - reduzindo seu FIS), ou é instantaneamente; (15 de energia para encolhimento gradativo e 30 para instantaneamente)
+• Reverter Encolhimento: Assim que o usuário desejar, Little Feet pode reverter o encolhimento, esse efeito é instantâneo; (20 de energia)
+• Alcance: 2m
+POWER: C | SPEED: B | RANGE: E | DURABILITY: A | PRECISION: D | POTENTIAL: E
+
+Man in the Mirror
+Habilidades
+• Mundo do Espelho: Man in the Mirror pode fazer com que o usuário e outros alvos que o stand ou o usuário toquem irem para o Mundo do Espelho. Além disso, o usuário pode escolher ficar invisível e só pode ser visto pouco antes de um alvo ser capturado; (10 de energia para ir para o mundo do espelho / 15 de energia para ficar invisível)
+• Força do Mundo do Espelho: Dentro do Mundo do Espelho, o usuário pode escolher um alvo e a partir desse momento, todos os seus atributos tornam-se o valor do alvo +3, isso também pode afetar Man in the Mirror; (25 de energia)
+• Alcance: 90m
+POWER: C | SPEED: B | RANGE: B | DURABILITY: D | PRECISION: C | POTENTIAL: C
+
+Beach Boy
+Habilidades
+• Intangibilidade: Beach Boy pode fazer seu anzol atravessar qualquer objeto ou ser vivo. Assim, o usuário pode colocar o anzol em um objeto para servir de isca. No caso de alguém tocar a isca, o anzol então fisga o alvo, entrando em seu corpo (causando 2d12+POW direto na vida). Enquanto fisgado, o usuário de Beach Boy recebe +3 em qualquer teste para puxar seu alvo até ele; (5 de energia para deixar intangível (por objeto) / 15 de energia para fisgar)
+• Buscar: Caso o alvo escape do anzol de Beach Boy, o usuário pode fazer com que o anzol vá atrás do alvo (enquanto tiver linha). Durante essa busca, o usuário pode "ouvir" sua linha, assim como ter o tato do anzol, garantindo a ele +3 de percepção para encontrar seres vivos; (10 de energia)
+• Alcance: 1m / 35m de linha
+POWER: E | SPEED: C | RANGE: B | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Baby Face
+Habilidades
+• Gerar Homúnculo: Usando seu notebook, o usuário pode gerar um homúnculo a partir do sangue de dois doadores, um homem e uma mulher. O homúnculo herda a personalidade de sua mãe. Nenhum dano causado no homúnculo é refletido no usuário; (25 de energia)
+• Homúnculo: O homúnculo criado pode vir de duas maneiras, o primeiro é ser visto por não usuários de stand, o segundo é ser visto apenas por usuários de stand. Além disso, o homúnculo é capaz de transformar qualquer coisa que toque em pequenos cubos (menos stands), e assim rearranjá-los da forma que quiser. O dano causado vem a partir de 2d20+POW do homúnculo; (10 de energia para transformar as coisas em cubo / 5 de energia para rearranjá-los / o stand não tem desvantagens raciais ou contra stands - pode tocar em stands)
+• Notebook / Homúnculo
+NOTEBOOK:
+POWER: ∅ | SPEED: C | RANGE: ? | DURABILITY: A | PRECISION: C | POTENTIAL: A
+HOMÚNCULO:
+POWER: A | SPEED: B | RANGE: ? | DURABILITY: A | PRECISION: C | POTENTIAL: C
+
+Clash
+Habilidades
+• Manifestação em água: Clash se manifesta dentro de líquidos, deixando seu tamanho sempre o suficiente para caber no recipiente. Seu tamanho varia de um peixinho de aquário até um pequeno tubarão; (10 de energia para se translocar nos líquidos)
+• Arrastar: Clash pode arrastar algo ou alguém consigo caso esteja em contato com ela e tenha líquidos 5m próximo deles; (15 de energia)
+• Alcance de 210m
+POWER: C | SPEED: A | RANGE: A | DURABILITY: B | PRECISION: B | POTENTIAL: E
+
+White Album
+Habilidades
+• Congelamento: White Album permite ao usuário congelar coisas próximas dele (num raio de 2m), esse congelamento pode ser de até -50ºC (escolha do usuário); (15 de energia)
+• Armadura de gelo: usando o gelo do stand, é possível criar uma armadura de gelo que permite o usuário à rolar suas resistências como um stand (2d10+DUR (stand)) e retira a desvantagem contra stands; (25 de energia)
+• While My Guitar Gently Weeps: White Album pode criar folhas de gelo difíceis de ser enxergadas que flutuam em volta do corpo do usuário. Quando algum projétil atinge uma dessas folhas, ele é defletido para outro lado; (20 de energia)
+• Alcance de 9m
+POWER: A | SPEED: C | RANGE: D | DURABILITY: A | PRECISION: B | POTENTIAL: E
+
+Oasis
+Habilidades
+• Terra mole: o usuário de Oasis pode transformar o solo em uma espécie de barro, que o permite nadar por debaixo do solo. O usuário não consegue enxergar embaixo da terra, por isso depende da audição para se mover com precisão; (20 de energia para deixar a terra mole)
+• Endurecimento de barro: Oasis permite o usuário a endurecer a terra novamente. Assim ele pode deixá-la com diversos formatos, como por exemplo atirar estacas de terra endurecida com sua boca; (20 de energia)
+• Alcance de 20m do amolecimento de terra
+POWER: A | SPEED: A | RANGE: C | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+Stone Free
+Habilidades
+• Transformar em fios: Stone Free permite o usuário a transformar 70% de seu corpo em fios. Dessa forma, quanto mais longo o alcance de fio, menor a DUR dele; (10 de energia por uso / a cada 1m estendido (o primeiro metro não desconta da DUR de Stone Free) -1 patamar de DUR (limite E))
+• Linha telefônica: Stone Free pode usar seus fios para grampear ligações, captando vibrações; (5 de energia)
+• Tocar em stands: o usuário pode tocar em stands (ainda com as desvantagens)
+• Super Força
+• Alcance de 2m
+POWER: A | SPEED: B | RANGE: E | DURABILITY: A | PRECISION: C | POTENTIAL: A
+
+Diver Down
+Habilidades
+• Mergulhar: Diver Down pode mergulhar nas coisas, e a partir disso, ele pode modelar o que quiser ali dentro. Caso Diver Down mergulhe em algo, sua durabilidade é usada para enviar o dano para o usuário, protegendo aquele objeto. (10 de energia)
+• Armazenar Força: Pode armazenar sua força em qualquer lugar e, quando o usuário quiser, a força é ejetada da mesma forma que veio (replicando o ataque, causando o dano da rolagem na hora de armazená-la no lugar). (5 de energia para armazenar e 5 para soltar)
+• Alcance de 2m
+POWER: A | SPEED: A | RANGE: E | DURABILITY: C | PRECISION: B | POTENTIAL: B
+
+Kiss
+Habilidades
+• Duplicação: Kiss pode colocar adesivos nas coisas que toca, esse adesivo duplica o objeto. Quando o adesivo é retirado, os objetos se juntam e são danificados; (10 de energia)
+• Duplicação de partes do corpo: Kiss pode duplicar braços ou pernas, por exemplo, e assim dobrar o dano final dos dados de dano (afeta stands); (20 de energia)
+• Super Força
+• Alcance de 20m
+POWER: A | SPEED: A | RANGE: C | DURABILITY: B | PRECISION: C | POTENTIAL: C
+
+Burning Down The House』
+Habilidades
+• Esconderijo: O usuário pode determinar um ponto específico de algum lugar, nesse local cria uma "dimensão" de um quarto de uma casa destruída em um incêndio. Apenas quem o usuário permite pode entrar livremente no quarto fantasma. Outra maneira de entrar é estar em contato com o usuário, assim não é necessário sua permissão para entrar; (20 de energia para criar o quarto / 5 de energia para entrar no quarto - gasto de quem entrar)
+• Objetos Fantasma: O usuário pode retirar de qualquer lugar um objeto presente naquele quarto. O objeto funcionará normalmente, porém é incapaz de ferir pessoas, apenas stands podem ser feridos; (10 de energia)
+POWER: ∅ | SPEED: ∅ | RANGE: ∅ | DURABILITY: ∅ | PRECISION: ∅ | POTENTIAL: ∅
+
+Foo Fighters
+Habilidades
+• Plâncton: Foo Fighters força o usuário a ser uma consciência coletiva de plânctons (Chester Pequeno). Dessa forma, a cada 2 turnos o usuário precisa beber água.
+• Possessão: Foo Fighters permite que os plânctons possuam corpos mortos e assim ganham um novo corpo; (20 de energia / 1 corpo por vez)
+• Curar: o stand permite o usuário colocar plânctons em feridas para assim curá-las, restaurando 2d12 de vida; (15 de energia)
+• Pistola: FF permite o usuário a transformar qualquer parte de seu corpo em uma pistola de plânctons, assim podendo usar sua habilidade em longo alcance; (15 de energia)
+• Espelho de água: ao usar água e plânctons, FF pode criar espelhos d'água com um tamanho equivalente à metade da altura do usuário (corpo atual); (10 de energia)
+POWER: B | SPEED: A | RANGE: ∅ | DURABILITY: B | PRECISION: C | POTENTIAL: B
+
+Goo Goo Dolls
+Habilidades
+• Encolhimento: o stand permite o usuário diminuir o tamanho do alvo para um tamanho de rato. Ao chegar na marca de 20m, o encolhimento é cancelado e o alvo volta a crescer gradativamente; (20 de energia)
+• Reverter efeito: pode reverter o efeito instantaneamente, deixando o alvo com seu tamanho normal; (10 de energia)
+• Alcance de 20m
+POWER: D | SPEED: C | RANGE: C | DURABILITY: A | PRECISION: B | POTENTIAL: D
+
+Manhattan Transfer
+Habilidades
+• Enxergar correntes de ar: MT permite seu usuário a enxergar pelas correntes de ar com extrema precisão; (5 de energia para usar - dura até o stand ser recolhido)
+• Alterar trajetória de balas: MT permite o usuário a mudar a trajetória de balas que passam pelo seu corpo, assim utilizando a precisão do stand para acertar o alvo; (10 de energia)
+• Super Precisão e Super Resistência
+• Alcance de 600m
+POWER: E | SPEED: E | RANGE: A | DURABILITY: A | PRECISION: A | POTENTIAL: E
+
+Jumpin' Jack Flash
+Habilidades
+• Gravidade Zero: Todo o que o usuário tocar (incluindo o ar) pode ser alvo da habilidade, que consiste em anular a gravidade de algo tocado. Caso alguém toque no alvo dessa habilidade, o efeito se propaga. Esse efeito permanece até que saiam do alcance do stand; (25 de energia)
+• Atirar projéteis: Usando a força centrífuga, Jumpin' Jack Flash pode atirar pequenos itens que entram em seus compartimentos em seu bracelete. Os disparos possuem SPEED B e POWER B; (15 de energia para criar a força - 1 turno para carregar)
+• Alcance de 35m
+POWER: B | SPEED: C | RANGE: B | DURABILITY: A | PRECISION: B | POTENTIAL: E
+
+Planet Waves
+Habilidades
+• Atrair meteoritos: Planet Waves pode mudar a trajetória de meteoritos para acertarem o usuário (com SPEED A). Entretanto, mesmo indo diretamente até o usuário de Planet Waves, o meteorito nunca acertará o usuário, se desfazendo antes que possa causar qualquer dano direto. Os meteoritos são divididos nas seguintes categorias:
+
+Meteoritos normais: POWER B, destrói estruturas finas e simples sem rolagens; (15 de energia)
+Meteoritos premium: POWER B, destrói todo tipo de corpo com DUR / FIS B ou menor sem rolagens; (20 de energia)
+Meteoritos grandinhos: POWER A, destrói todo corpo (seres vivos não contam) com DUR / FIS A ou menor sem rolagens; (25 de energia)
+• Alcance de 5m
+POWER: A | SPEED: A | RANGE: D | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Dragon's Dream
+Habilidades
+• Feng Shui: O compasso de Dragon's Dream permite a quem deseja ver áreas sortudas e azaradas, essas áreas concedem +3 e -3 respectivamente para rolagens no local. Além disso, o compasso do stand pode indicar pontos de sorte e azar no corpo do alvo; (20 de energia para ver áreas / 25 para ver no alvo)
+• Desmembramento: Dragon's Dream permite que qualquer um coloque seus membros em sua bolha e assim fazendo o membro se soltar do corpo, indo na direção do alvo com SPEED A e POW FIS do membro; (15 de energia)
+• Invencibilidade: Não há como atacar Dragon's Dream, ou seja, não há como causar danos a ele.
+• Personalidade Própria: Dragon's Dream tem uma personalidade neutra, ajudando ou atrapalhando tanto o usuário quanto seus adversários.
+POWER: ? | SPEED: ? | RANGE: ? | DURABILITY: A | PRECISION: ? | POTENTIAL: ?
+
+Yo-Yo Ma
+Habilidades
+• Escravo: Yo-Yo Ma torna-se escravo de um alvo determinado pelo usuário. Sendo um ser masoquista, adora apanhar e faz tudo que seu novo mestre mandar; (5 de energia para determinar o alvo)
+• Saliva Ácida: O stand pode atacar seu alvo quando não está olhando, recebendo +3 em todos seus testes para ser discreto. Sua saliva causa 2d20+POW de dano + 2d12 direto na vida; (10 de energia para salivada)
+• Indestrutibilidade: Yo-Yo Ma é indestrutível, ou seja, não há nada que se possa fazer para causar danos ao seu usuário. Entretanto, Yo-Yo Ma interage com o mundo físico, mesmo contra sua vontade.
+• Confiança: Yo-Yo Ma pode rolar testes de CAR (considerados B) por turno, assim fazendo os alvos baixarem a guarda em caso de falharem no teste.
+POWER: D | SPEED: C | RANGE: ? | DURABILITY: A | PRECISION: C | POTENTIAL: A
+
+Tusk ATO 1
+Habilidades
+• Girar unhas: Tusk permite ao usuário girar suas unhas e dispará-las em SPEED B e POW B; (10 de energia)
+• Crescimento de unhas: Tusk faz com que as unhas do usuário cresçam mais rápido (2 turnos gerais).
+• Alcance: 2m
+POWER: E | SPEED: E | RANGE: E | DURABILITY: B | PRECISION: E | POTENTIAL: A
+
+Ball Breaker
+Habilidades
+• Manifestação: Ball Breaker só pode ser manifestado por um disparo feito no Super Spin.
+• Aceleração de energia: Ball Breaker pode acelerar o fluxo de energia das células de um ser vivo afetado pelo tiro da steel ball, causando sua destruição e, consequentemente, seu envelhecimento. O dano causado é de 2d20+POW DIRETO NA VIDA do alvo; (25 de energia)
+• Alcance do disparo da Steel Ball / 5m da Steel Ball
+POWER: A | SPEED: A | RANGE: D | DURABILITY: B | PRECISION: C | POTENTIAL: B
+
+Oh! Lonesome Me
+Habilidades
+• Pela Corda: O usuário pode desfazer seu corpo e o de outras pessoas que entram em contato com a corda. Na corda, é impossível sofrer danos por itens normais, sendo apenas stands capazes de causar danos ao corpo. Além disso, o usuário pode mover a corda livremente, mesmo estando nela; (10 de energia)
+• Alcance de 12m
+POWER: E | SPEED: C | RANGE: C | DURABILITY: B | PRECISION: C | POTENTIAL: D
+
+Cream Starter
+Habilidades
+• Spray de Carne: Cream Starter pode assimilar carne e transformá-la em uma substância cremosa que sai pelo spray. Quando a carne acerta um ser vivo, ela se assimila à carne do alvo, fazendo com que a carne dele seja substituída; (10 de energia)
+• Membros Remotos: CS pode usar seu spray para separar os membros do corpo afetado na forma cremosa. O usuário pode usar Cream Starter de outros ângulos, aumentando sua flexibilidade de ataque; (10 de energia)
+• Jato de Carne: O stand pode soltar um jato de carne com SPEED B e POW A; (20 de energia)
+• Disfarce: Cream Starter pode cobrir corpos de carne e criar disfarces, alterando todos os aspectos do corpo da pessoa, como altura, peso, voz, entre outros; (15 de energia)
+• Alcance de 1m / Alcance de 5m (spray)
+POWER: D | SPEED: C | RANGE: E | DURABILITY: A | PRECISION: E | POTENTIAL: B
+
+Tomb of the Boom
+Habilidades
+• Tomb of the Boom 1 - Magnetismo: Pode transformar qualquer alvo que toque em um magneto. O alvo passa a atrair objetos metálicos para si, além de atrair outras pessoas magnetizadas; (10 de energia)
+• Tomb of the Boom 2 - Manipular Partículas Metálicas: O usuário pode manipular qualquer tipo de partícula metálica, como areia de ferro, entre outras.
+• Tomb of the Boom 3 - Absorção de Metal: O stand pode absorver objetos metálicos, permitindo ao usuário usar esses metais para mudar sua aparência ou a do stand, criar lâminas em seu corpo ou aumentar seu FIS em 1 patamar; (25 de energia)
+• Alcance de 15m
+POWER: D | SPEED: C | RANGE: C | DURABILITY: B | PRECISION: C | POTENTIAL: C
+
+Listen to My Rhythm (Boku no Rhythm wo Kiitekure)
+Habilidades
+• Pinos Explosivos: Ao entrar em contato com qualquer coisa, o stand ou o usuário podem colocar um pino que, caso seja removido, o usuário deseje ou o limite de tempo (imposto pelo usuário) seja atingido, causa uma explosão. A explosão causa danos graves (POW B) e, se for a queima-roupa, os danos aumentam para (POW A). Se o pino for colocado em um líquido, o nível de destruição diminui (POW C), mas se o líquido for transformado em gás, o pino pode continuar ativo (caso o usuário deseje); (10 de energia / 15 para manter em estado de evaporação)
+• Mobilidade: O stand sempre se manifestará nas costas do usuário. O stand não se move ou sai de perto do usuário em momento algum, mas pode mover seus braços pelo corpo dele, sem sair das costas.
+• Alcance de 1m
+POWER: B | SPEED: C | RANGE: E | DURABILITY: B | PRECISION: E | POTENTIAL: C
+
+Scary Monsters
+Habilidades
+• Infecção: Scary Monsters pode infectar outros seres vivos com um vírus que os transforma em dinossauros, além de submetê-los a ordens diretas do usuário. Cada pessoa ou animal infectado tem um olhar e capacidades únicas, além de poder infectar outras pessoas ao morder ou arranhar; (25 de energia)
+• Metamorfose: O usuário pode mudar seu corpo de humano para meio-dinossauro, seja completamente ou parcialmente. Nesse estado, ele ganha resistência, força, velocidade e percepção aprimoradas (+3 em FIS, AGI, PRE e percepção), além de poder comer qualquer coisa. (25 de energia)
+• Fossilizar: Scary Monsters pode colocar seus dinossauros em um estado dormente e endurecido como um fóssil. A habilidade pode ser usada de várias maneiras, como fundir um ser em uma estrutura como rocha ou árvore para camuflagem ou moldar o ser fossilizado de forma criativa; (15 de energia)
+• Mão a Mão: O usuário não sofre desvantagens contra stands enquanto estiver em sua forma de metamorfose.
+• Habilidade Singular: Scary Monsters concede ao usuário a habilidade singular "Barragem de Socos", uma técnica poderosa de combate físico.
+POWER: B | SPEED: B | RANGE: ? | DURABILITY: A | PRECISION: E | POTENTIAL: B
+
+Catch the Rainbow
+Habilidades
+• Chuva: O usuário ganha 1 patamar a mais em SOR para fazer chover; (3 de energia)
+• Parar Gotas de Chuva: Em um raio de 50m do usuário, todas as gotas de chuva param no ar. Caso alguém (exceto o usuário) tente passar pelas gotas, um pedaço de seu corpo que tocou na gota é penetrado, causando 3d10 de dano direto na vida; (30 de energia)
+• Curar Ferimentos: O usuário pode usar a água da chuva para curar seus ferimentos, recebendo 2d12 de vida; (15 de energia)
+• Camuflagem na Chuva: O usuário pode tornar seu corpo como água, camuflando-se nas gotas de chuva. Entretanto, seus valores de FIS e AGI são reduzidos em 1 patamar, mas ele não pode morrer enquanto estiver nesse estado; (20 de energia)
+• Andar Sobre as Gotas: O usuário pode caminhar sobre as gotas de chuva paralisadas, com um teste de acrobacia.
+POWER: ∅ | SPEED: C | RANGE: B | DURABILITY: B | PRECISION: D | POTENTIAL: D
+
+Tubular Bells
+Habilidades
+• Balões de Metal: Tubular Bells permite ao usuário inflar qualquer objeto metálico como se fosse um balão. Caso alguém (incluindo o usuário) interaja com o balão, ele se desfaz e retorna à sua forma original. Se o balão atingir alguém, essa pessoa sofre dano de 3d20 + POW (contando como A), com direito a rolagem de resistência; (10 de energia)
+• Animais de Metal: Caso o usuário transforme o balão em um animal metálico, o balão adquire as características desse animal e passa a agir quase automaticamente, seguindo os comandos do usuário do stand.
+POWER: D | SPEED: C | RANGE: ? | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+Tattoo You!
+Habilidades
+• Onze Cópias: O usuário possui outras 10 pessoas idênticas a ele, todas com o stand tatuado em sua nuca. As cópias seguem as ordens do usuário.
+• Chamar Cópias: Os usuários de Tattoo You! podem sair da nuca de outro, formando uma cópia idêntica em outro corpo; (10 de energia cada)
+• A Máscara dos Onze: Caso uma cópia de Tattoo You! morra, o usuário pode remover a máscara de sua nuca e colocá-la em outra pessoa viva, que passará a ser idêntica a ele; (25 de energia)
+• Morte: Caso o usuário de Tattoo You! morra, todos os outros usuários são liberados dos efeitos do stand.
+POWER: ∅ | SPEED: E | RANGE: ? | DURABILITY: B | PRECISION: E | POTENTIAL: E
+
+In a Silent Way
+Habilidades
+• Construção de Som: In a Silent Way permite ao usuário manipular e armazenar sons de objetos, transformando-os em onomatopeias físicas 3D que podem ser liberadas quando em contato com algo. A onomatopeia gerada pode ter características específicas escolhidas pelo usuário, como um impacto ou efeito único dependendo do som armazenado; (15 de energia)
+• Escudo de Som: O usuário pode colocar onomatopeias em seu corpo e usá-las como escudo, dependendo da onomatopeia escolhida, podendo se proteger de ataques e impactos com diferentes efeitos; (15 de energia) 
+• Alcance de 5m
+POWER: C | SPEED: C | RANGE: D | DURABILITY: A | PRECISION: D | POTENTIAL: B
+
+20th Century Boy
+Habilidades 
+• Defesa Suprema: Quando o usuário se agacha, o stand pode se manifestar e cobrir suas costas, tornando-o imortal enquanto permanece nessa posição. No entanto, o usuário não pode se mover enquanto estiver nessa forma de Defesa Suprema; (25 de energia)
+POWER: ∅ | SPEED: C | RANGE: ∅ | DURABILITY: ∞ | PRECISION: ∅ | POTENTIAL: ∅
+
+Chocolate D.I.S.C.O
+Habilidades 
+• Plano Cartesiano: O usuário pode criar um plano cartesiano em um retângulo de 10m à sua frente, permitindo alterar a posição de corpos e objetos dentro dele, assim como modificar a posição no ar; (15 de energia / 5 de energia por alteração) • Manipulação de Espaço: A habilidade permite ao usuário alterar a disposição de qualquer item ou corpo presente no plano cartesiano criado, incluindo jogá-los para diferentes localizações no espaço; (10 energia) • Alcance de 10m
+POWER: ∅ | SPEED: C | RANGE: ∅ | DURABILITY: B | PRECISION: A | POTENTIAL: D
+
+Soft & Wet
+Habilidades
+• Super Força: Quando o stand utiliza suas pernas, seu atributo de força é equivalente a A mais sua Super Força;
+• Prisão de Bolha: As bolhas de S&W também apresentam a capacidade de aprisionar um corpo dentro de uma bolha, com limite de tamanho para um corpo humano (até 2m de altura); (20 energia)
+• Absorver Aspectos: A habilidade base do stand. Suas bolhas são capazes de absorver o aspecto das coisas, fazendo com que a bolha tenha esse aspecto que foi absorvido do item original; (10 energia)
+• Tocar em stands: O usuário pode tocar em stands (com desvantagem);
+• Alcance de 2m
+POWER: C | SPEED: B | RANGE: E | DURABILITY: B | PRECISION: C | POTENTIAL: A
+
+Paisley Park
+Habilidades
+• Guia: Paisley Park pode guiar o usuário ou algum aliado para o "caminho certo" de várias formas, como mudar a rota de um GPS, borrar mapas etc.; (10 de energia)
+• Influência na Memória: O stand pode se manifestar nos eletrônicos do usuário ou aliados para lembrá-los de algo. Para lembrar coisas não relacionadas ao usuário, é necessário rolar um teste de História com +3 concedido pelo stand; (5 de energia para a rolagem de História)
+• Mudança de Forma: Paisley Park pode mudar sua forma de várias maneiras, como uma sombra humanoide, um humanoide tridimensional, um globo terrestre com rotas. As formas sempre terão as características do stand (cor, detalhes etc.); (5 de energia)
+• Proteção do Usuário: O stand defende automaticamente seu usuário de ameaças que identifica. Sua velocidade e poder destrutivo serão os mesmos do alvo com +2; (10 de energia)
+• Controle de Eletrônicos: Paisley Park pode controlar qualquer eletrônico, passando por qualquer segurança de sistema sem ser detectado. Pode absorver uma funcionalidade do eletrônico e usá-la uma vez; (10 de energia / +5 para absorver funcionalidade)
+• Personalidade Própria: Paisley Park tem uma personalidade própria, que se comunica com o usuário através de eletrônicos ou papel, com perguntas de dupla escolha para ajudar na rota de fuga;
+• Alcance de 600m / Indeterminado em caso de eletrônicos
+POWER: ∅ | SPEED: ∅ | RANGE: A | DURABILITY: A | PRECISION: D | POTENTIAL: C
+
+Doggystyle
+Habilidades
+• Descascar Pele: Doggystyle pode descascar a pele do usuário e criar cordas, que estão sob total controle do usuário e são extremamente resistentes; (10 de energia / até 50m de corda)
+• Spin: O usuário pode fazer uma corda com algum membro e girá-la com o spin. Danos causados com isso são equivalentes a 2d20+A e qualquer corpo com DUR C ou menor tem o local arrancado sem rolagens; (15 de energia + energia do spin)
+• Alcance de 5m
+POWER: E | SPEED: C | RANGE: D | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+Born This Way
+
+Habilidades
+• Ataque Contínuo: Após o usuário tocar em alguém, ele passará a ser o alvo de Born This Way, que começa seu ataque quando desejado. Toda vez que o alvo abre alguma coisa, o stand se manifesta instantaneamente próximo ao local. O ataque é interrompido quando o usuário desejar; (15 de energia)
+• Going Underground: Caso o alvo de Born This Way seja mais rápido que ele, sua segunda habilidade pode ser ativada. O stand dispara uma lufada de vento tão gelado que congela o que está ao redor. Quando ativado, o alvo deve rolar um teste de FIS - 3 contra o POWER do stand. Caso o stand vença, a agilidade e FIS do alvo (contra Born This Way) caem uma letra; (15 de energia)
+• Moto: O usuário de Born This Way pode manifestar apenas a moto do stand para utilizá-la. Não será visível para não-usuários de stand. Quando alguém tenta fazer algo com ela, Born This Way se manifesta para defender a moto (com POWER A), parando quando o usuário desejar. (não gasta energia // 10 de energia para defender a moto)
+• Alcance de 250m (a habilidade de Ataque Contínuo dá ao stand alcance infinito).
+POWER: C | SPEED: B | RANGE: A | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Nut King Call
+Habilidades
+• Porcas e Parafusos: O usuário ou o stand podem transformar qualquer coisa em porcas e parafusos. Isso pode ser usado para desmantelar pessoas sem causar danos. Se a pessoa for totalmente desmantelada e o usuário cancelar a habilidade sem colocar tudo de volta, o alvo morre; (10 de energia por uso)
+• Alcance de 15m
+POWER: C | SPEED: D | RANGE: C | DURABILITY: A | PRECISION: E | POTENTIAL: B
+『Paper Moon King』
+Habilidades
+• Origami: O usuário pode fazer origamis com qualquer coisa que caiba em suas mãos sem precisar de rolagens; (5 de energia para objetos que não são de papel)
+• Prosopagnosia: Caso alguém toque em um origami feito por Paper Moon King, essa pessoa inicialmente se torna incapaz de diferenciar faces (1 turno), depois textos (2 turnos) e, por fim, vozes (3 turnos). A habilidade só sai quando o usuário desejar ou o alvo ficar inconsciente; (20 de energia / turnos individuais)
+• Alcance de 25m
+POWER: E | SPEED: E | RANGE: C | DURABILITY: B | PRECISION: C | POTENTIAL: B
+
+King Nothing
+Habilidades
+• Rastreamento por Cheiro: King Nothing pode rastrear pessoas pelo seu cheiro com extrema precisão; (15 de energia)
+• Remontar Coisas Quebradas: O stand pode remontar coisas quebradas para saber como elas eram antes de serem usadas ou destruídas; (20 de energia)
+• Controle Remoto: King Nothing pode desmontar seus braços para usá-los à longa distância com extrema precisão; (10 de energia)
+• Alcance de 190m
+POWER: ∅ | SPEED: C | RANGE: A | DURABILITY: B | PRECISION: A | POTENTIAL: N
+
+Speed King
+Habilidades
+• Produção de Calor: Speed King pode aquecer qualquer coisa que toca (menos stands - raio de 10cm) até qualquer temperatura desejada; (10 de energia)
+• Controle de Calor Produzido: Speed King pode evitar que o ponto aquecido derreta ou fique incandescente; (5 de energia para controlar)
+• Alcance de 2m
+POWER: C | SPEED: A | RANGE: E | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Doobie Wah!
+Habilidades
+• Caça: Doobie Wah! persegue seu alvo sem parar enquanto ele estiver respirando. Para ativar a perseguição, é necessário o usuário tocar no alvo; (20 de energia por alvo)
+• Pequeno tornado: o stand inicialmente sai do nariz do alvo como um pequeno tornado, depois de totalmente formado, ele passa a persegui-lo;
+• Atravessar carne: Doobie Wah! quando acerta o alvo em algum ponto, ele rasga a carne e a joga por todos os lados, causando dano de 2d20 direto na vida;
+POWER: ∅ | SPEED: A | RANGE: ? | DURABILITY: A | PRECISION: A | POTENTIAL: ∅
+
+Vitamin C
+Habilidades
+• Amolecimento: Vitamin C pode amolecer tecidos de seres vivos com seu toque. Além de poder controlar a elasticidade e viscosidade do corpo do alvo, podendo moldar a forma dos corpos alvos da habilidade (os alvos recebem -1 patamar em FIS e AGI - a não ser que não consiga se mover); (20 de energia / 5 de energia para manipular os aspectos)
+• Alcance de 17m
+POWER: E | SPEED: C | RANGE: C | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+Love Love Deluxe
+Habilidades
+• Controle de cabeleira: LLD tem controle total sobre seu cabelo e de outras pessoas que o usuário ou o stand tocam, ou seja, pode controlar o comprimento, cor, tipo, etc.; (5 de energia por alteração)
+• Criar cabelo: tudo que o usuário ou o stand tocam pode ter cabelo crescendo de qualquer tipo. Isso pode ser usado para entupir ouvidos, entre outras coisas; (10 de energia)
+• Alcance de 80m
+POWER: E | SPEED: C | RANGE: B | DURABILITY: B | PRECISION: E | POTENTIAL: A
+
+Space Trucking
+Habilidades
+• Embaralhar entre as cartas: Space Trucking pode guardar itens ou pessoas de pequeno porte no meio de suas cartas, assim, quando o usuário precisa, pode tirá-los de suas cartas. Todos os objetos que foram escondidos por Space Trucking aparecem no mundo material como se estivessem quebrados; (10 de energia para guardar e tirar)
+• Alcance de 11m
+POWER: E | SPEED: C | RANGE: C | DURABILITY: A | PRECISION: A | POTENTIAL: C
+
+
+Awaking III Leaves
+Habilidades
+- Manipulação de vetores: Awaking III Leaves manipula o espaço vetorial gerando flechas que o usuário pode colocar em diferentes lugares e direções. O stand pode encaminhar energia para onde as setas apontam, negar a entrada de corpos estranhos na área do usuário, etc.; (5 de energia para criar vetor / 5 = E, D = 10... A = 25)
+- Alcance de 10m
+POWER: E | SPEED: E | RANGE: C | DURABILITY: A | PRECISION: E | POTENTIAL: B
+
+Killer Queen (8)
+Habilidades
+- Bomba primária: Killer Queen pode gerar bolhas, tudo que elas tocam (com exceção de stands) explodem. O usuário pode controlar o poder da explosão, assim como a bolha interage e gera as explosões; (5 de energia)
+- Sheer Heart Attack: uma manifestação secundária de Killer Queen. Sheer Heart Attack ataca sempre um único alvo e tem um poder de explosão igual ao de Killer Queen, possuindo Super Resistência. Sendo uma colônia, o usuário não recebe nenhum dano - fora o fato de que o usuário pode controlar o tamanho do stand (do tamanho de uma hemácia até uma cabeça humana); (35)
+- Alcance de 2m / 200m (Sheer Heart Attack)
+- Killer Queen / Sheer Heart Attack
+KILLER QUEEN:
+POWER: A | SPEED: B | RANGE: E | DURABILITY: B | PRECISION: B | POTENTIAL: A
+SHEER HEART ATTACK:
+POWER: A | SPEED: C | RANGE: A | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+All Along the Watchtower
+Habilidades
+• Colônia: O stand se manifesta como 53 cartas de baralho com membros. O dano só é causado ao acertar a carta certa, e o usuário sabe qual carta é, não podendo deixá-la consigo.
+• Buscar Traidores: O usuário pode liberar suas cartas para buscar um traidor no grupo. O stand buscará incansavelmente até o usuário ordenar ou até encontrar o impostor. O alcance do stand torna-se irrelevante, e todas as descobertas são enviadas ao usuário. (25 de energia)
+• Alterar as cartas: O usuário pode trocar uma carta por outra, desde que estejam próximas (dentro do alcance do stand). (10 de energia)
+• Espionagem: O stand pode se tornar mais discreto, conferindo +3 para ações furtivas. Dentro de seu alcance, pode transportar objetos pequenos e ajudar o usuário a desventar mistérios. (10 de energia)
+Alcance: 450m.
+POWER: D | SPEED: B | RANGE: A | DURABILITY: A | PRECISION: A | POTENTIAL: E
+
+The Cure
+Habilidades
+• Cura: The Cure pode curar ferimentos de seres vivos, recuperando 2d20 de vida/sanidade. (10 de energia)
+• Absorção de danos: The Cure, ao curar um alvo, pode absorver a gravidade do dano causado e armazenar:
+    ○ Danos emocionais: +2 de dano absorvido;
+    ○ Danos mentais: +3 de dano absorvido;
+    ○ Danos leves: +5 de dano absorvido;
+    ○ Danos médios: +10 de dano absorvido;
+    ○ Danos graves: +15 de dano absorvido;
+O limite de dano absorvido do stand é 30. Após atingir esse limite, nenhum dano adicional pode ser absorvido.
+• Liberação de dano absorvido: Quando algo entra em contato com The Cure, o usuário pode liberar uma quantidade do dano absorvido. Se o dano liberado for maior ou igual ao valor de DUR / FIS do alvo, ele é danificado gravemente sem rolagens. O dano causado é de 2d20 + dano liberado, diretamente na vida do alvo. (20 de energia + dano absorvido, que não consome da energia do usuário)
+• Berserk: Ao atingir o limite de dano absorvido, The Cure pode liberar tudo de uma vez, recebendo POW 30 e destruindo tudo com DUR B ou menor sem rolagens. (30 de energia)
+Alcance: 6m
+POWER: D | SPEED: B | RANGE: D | DURABILITY: B | PRECISION: B | POTENTIAL: C
+
+Dark Mirage
+Habilidades
+• Criar miragens: Ao tocar em um alvo, Dark Mirage pode gerar qualquer tipo de miragem. O alvo deve rolar um teste de INT vs POT do stand e, caso passe, ele sai da miragem. Se falhar, o alvo fica preso e recebe -1 patamar em todas as rolagens de SAB e -1 patamar em TODOS os atributos contra o usuário. (25 de energia)
+• Criar miragens reais 😨: O usuário pode materializar uma miragem, tornando-a real. O alvo afetado pela habilidade de Criar miragens sai automaticamente do efeito da miragem. (30 de energia / 10 de energia para manter a miragem por turno geral)
+• Manifestação: O stand se manifesta como luvas malucas à escolha do usuário, desde que tenham a inscrição "Dark Mirage" em algum lugar delas.
+POWER: E | SPEED: B | RANGE: E | DURABILITY: B | PRECISION: E | POTENTIAL: A
+
+Joy Division
+Habilidades
+• Troca espacial: Joy Division pode trocar objetos tocados pela mão esquerda do usuário com objetos tocados pela mão direita. Ele também pode fazer esses objetos aparecerem na mão que o tocou. (10 de energia para deixar marcador / 5 de energia para trocar)
+• Forma Humanoide: Apesar de o stand ser apenas uma habilidade, o usuário pode manifestar uma forma humanoide para ajudá-lo a usar sua habilidade em um alcance um pouco maior.
+• Alcance indeterminado / 5m (humanoide)
+POWER: D | SPEED: B | RANGE: D | DURABILITY: A | PRECISION: E | POTENTIAL: D
+
+Maniac Depression
+Habilidades
+• Manipulação de Neuroquímica: Maniac Depression pode manipular quase livremente qualquer função biológica de um corpo. Essa habilidade pode ser usada para aumentar a frequência cardíaca de um alvo que tocou o stand na quantia desejada, além de poder ser usada para aumentar temporariamente os atributos de quem toca o stand. (20 de energia / precisa tocar - duração de 3 turnos individuais)
+• Alcance de 3m
+POWER: D | SPEED: A | RANGE: E | DURABILITY: C | PRECISION: E | POTENTIAL: B
+
+Night Bird Flying
+Habilidades
+• Drogas: Quando o stand bica alguém, ele pode rastrear a alma do alvo bicado. Enquanto o alvo estiver no alcance do stand, o usuário pode aplicar um efeito de qualquer droga que ele conheça. (15 de energia para bicar / 25 de energia para aplicar efeito de droga)
+• Alcance de 250m
+POWER: E | SPEED: A | RANGE: A | DURABILITY: E | PRECISION: E | POTENTIAL: C
+
+Public Image Limited
+Habilidades
+• Tiro aumentado: O usuário pode dar patamares de seu FIS e AGI para incrementar o POW e SPEED de sua bala-stand, respectivamente. (FIS = POW e AGI = SPEED). Os valores são extraídos dos atributos do usuário e só voltam depois dele se hidratar adequadamente (TEM QUE SER ÁGUA sem gás 500ml). (15 de energia)
+• Tiro aumentado hipoteticamente: Caso a bala-stand acerte um stand, o usuário pode replicar seus valores de SPEED e POW, e seu próximo tiro terá esses valores. (20 de energia para replicar status)
+• Alcance de 90m
+POWER: E | SPEED: C | RANGE: B | DURABILITY: B | PRECISION: ∅ | POTENTIAL: C
+
+Voodoo Child
+Habilidades
+• Gerar lábios: Quando Voodoo Child toca em algum lugar, ele pode colocar um lábio no local. Inicialmente, a habilidade só pode repetir exatamente a primeira frase que foi dita depois que a boca foi gerada. (10 de energia)
+• Evolução: Voodoo Child apresenta capacidade de aprimorar e ampliar as capacidades que seus lábios possuem e podem possuir.
+• Alcance de 3m
+POWER: C | SPEED: A | RANGE: E | DURABILITY: C | PRECISION: B | POTENTIAL: A
+
+Love Madly
+Habilidades
+• Fixação: O stand pode fixar qualquer coisa (podendo ser no ar ou em qualquer lugar ou condição) ao tocar no corpo. A fixação é instantânea, porém o objeto fixado se torna 1 letra mais resistente. (10 de energia / 15 em seres vivos)
+• Alcance de 5m
+POWER: E | SPEED: A | RANGE: D | DURABILITY: B | PRECISION: A | POTENTIAL: C
+
+Stargazer
+Habilidades
+• Clonagem por fusão: Quando Stargazer pega em um objeto, pode fundir ele com outro e retirar um clone perfeito daquele que foi usado para fundir os dois OU daquele que se fundiu com o outro; (10 de energia)
+• Clonagem precisa: O stand pode clonar perfeitamente algo específico de um corpo (como uma palavra escrita por exemplo), tudo que o stand precisa fazer é colocar sua mão na coisa que quer clonar e puxá-la. (10 de energia)
+• Super velocidade
+• Alcance de 2m
+POWER: C | SPEED: A | RANGE: E | DURABILITY: D | PRECISION: A | POTENTIAL: B
+
+Rainmaker
+Habilidades
+• Controle da Água: Todo tipo de corpo que Rainmaker toca (se possuir H2O) pode ter TODA água do seu corpo manipulada pelo usuário; (10 de energia)
+• Manipulação de estado da água: O stand pode alterar o estado em que a água se encontra (enquanto toca no corpo), podendo fazer com que a água se torne sólida, líquida ou gasosa; (5 de energia por mudança)
+• Alcance de 2m
+POWER: A | SPEED: C | RANGE: E | DURABILITY: A | PRECISION: E | POTENTIAL: D
+
+Wicker Man
+Habilidades
+• Geração de Palha: Quando o stand toca em algo, ele pode destruir aquele objeto (caso seja um ser vivo, ele morre) transformando-o em palha; (25 de energia / 2 turnos de cooldown)
+• Gerar itens: Usando a palha dos corpos destruídos, o stand pode "costurar" a palha e formar um objeto que possui a exata utilidade do objeto original; (10 de energia)
+• Armazenar Palha: Depois de destruir um corpo, o stand pode comer a palha e armazená-la dentro de seu corpo até que chegue no limite. Quando seu armazém chega no limite, o stand se torna mais devagar, perdendo uma letra de velocidade;
+• Super precisão: Para criar os itens de palha, ele ganha super precisão;
+• Alcance de 101m
+POWER: E | SPEED: B | RANGE: A | DURABILITY: B | PRECISION: E | POTENTIAL: B
+
+Black Bart Blues
+Habilidades
+• Entrar em objetos: O stand pode entrar em objetos e, enquanto lá dentro, o usuário pode modelar livremente aquele objeto, podendo mudar a matéria-prima, sua forma etc. (20 de energia)
+• Consciência do objeto: Enquanto o stand está dentro do objeto, o usuário do stand tem uma noção parcial do que está acontecendo com o objeto, sentindo onde ele está tocando e se ele está ou não sendo danificado ou usado; (não gasta energia)
+• Alcance de 2m
+POWER: C | SPEED: C | RANGE: E | DURABILITY: B | PRECISION: A | POTENTIAL: A
+
+Educated Fool
+Habilidades
+• Mestre das mãos: O usuário rola com +3 em qualquer teste que use as mãos.
+• Luvas: O stand se manifesta como luvas muito bonitas (aquelas de traje de gala). Sendo assim, o usuário pode tocar em stands com suas mãos.
+• Cumprimento: Caso alguém cumprimente o usuário, ele pode rolar testes de CAR com +3 para esse alvo, mas deve gastar energia toda vez que quer usar esse bônus; (15 de energia)
+• Toque nas palmas: Caso algo ou alguém toque nas palmas de Educated Fool sem ser para um cumprimento, o usuário pode acertar uma barragem de socos (invisíveis) que sempre acertam o alvo; (gasto da barragem - POW A)
+• A luva pode se manifestar em qualquer lugar em seu alcance de 3m
+POWER: ∅ | SPEED: A | RANGE: E | DURABILITY: B | PRECISION: E | POTENTIAL: E
+
+More Tears
+Habilidades
+• Choro fácil: Quem o usuário ou o stand toca recebe a habilidade de chorar quando quiser.
+• Lágrima nutritiva: Qualquer lágrima chorada por alguém alvo de Choro fácil pode chorar até 2d15 de energia. Quem beber dessas lágrimas recupera o respectivo valor chorado; (15 de energia)
+• Lágrima-espelho: As lágrimas podem assumir a característica de qualquer tipo de espelho; (5 de energia)
+• Manipulação de lágrima: O usuário pode manipular qualquer aspecto da lágrima causada por More Tears, seja tamanho, viscosidade etc; (10 de energia)
+• Afogar em lágrimas: More Tears pode fazer alguém alvo da habilidade ficar mais sensível a ser magoado, caso o alvo comece a chorar, o usuário pode fazer com que ele comece a se afogar de tanto chorar; (25 de energia)
+• (No) More Tears: Se algum alvo da habilidade de More Tears for acertado em cheio, o usuário pode colar uma lágrima no rosto do alvo e, quando desejar, pode liberar uma barragem à qualquer distância usando o POW do stand; (30 de energia)
+• Exagerado: More Tears tem atributos exagerados.
+• Alcance de 6m
+POWER: A | SPEED: B | RANGE: D | DURABILITY: B | PRECISION: E | POTENTIAL: C
+
+These Colours Don't Run
+Habilidades
+• Toque colorido: Quem o stand ou o usuário tocam torna-se suscetível para as próximas habilidades de TCDR; (10 de energia para colocar "toque colorido")
+• These Colours Don't Run: Quando o usuário declara uma cor em voz alta, todos os corpos que o usuário tocou e que tenham tal cor em seu corpo (vestimentas contam) e estejam no alcance do stand, ficam paralisados; (15 de energia)
+• Lado colorido da força: Quando TCDR for atacar um alvo paralisado, o alvo não rola seus dados de resistência com modificadores. Além disso, o stand do alvo recebe temporariamente atributos iguais aos de TCDR com -3 em todos eles; (20 de energia para habilitar a habilidade)
+• Alcance de 85m
+POWER: B | SPEED: C | RANGE: B | DURABILITY: A | PRECISION: E | POTENTIAL: E
+
+Heaven Can Wait
+Habilidades
+• Sabedoria desbalanceada: Quando o stand é manifestado, o usuário recebe conhecimento de 103 mil coisas distintas. Toda vez que o stand se manifesta, esses conhecimentos mudam e raramente se repetem. O usuário esquece o que aprendeu depois que recolhe o stand; (35 de energia por uso)
+• Cura milagrosa: O stand pode usar seu corpo composto por nuvens loucas para cobrir um corpo e curá-lo. A vida restaurada é de 4d20 e a energia, caso o usuário queira, é 2d20; (20 de energia para curar vida / 30 para curar energia)
+• Nuvem de benção: O usuário pode fazer o stand criar nuvens que dão +5 em três rolagens para um alvo que foi tocado por ele em algum momento (deve ser no mesmo dia); (25 de energia)
+• Forma nuvem: O stand pode se manifestar como uma nuvem de qualquer tamanho. Nessa forma, o stand pode interagir com o mundo físico sem rolagens, podendo mover coisas e até pessoas de lugar; (15 de energia)
+• Nuvem habilidosa: O stand pode criar uma nuvem que concede ao alvo que o usuário determinar (ao tocar nele) uma perícia qualquer, mas ela só serve para uma rolagem. A habilidade dura até a perícia ser usada ou a nuvem ser dispersada (ela tem DUR E e pode ser dispersada por pessoas normais); (10 de energia)
+• Nuvem de cancelamento: Heaven Can Wait pode desfazer seu corpo e cobrir um alvo. Qualquer habilidade de stand não tem efeito nesse alvo (com exceção de habilidades de nível global - Para o tempo, etc.) e, num raio de 5m, nenhum usuário de stand pode usar seu stand; (35 de energia + 10 de vida)
+• Alcance de 25m
+POWER: ∅ | SPEED: C | RANGE: C | DURABILITY: A | PRECISION: B | POTENTIAL: A
+
+Grand Cathedral
+Habilidades
+• Manipulação de perspectiva: Tudo que o usuário ou o stand tocam se tornam algo que pode ser distorcido na visão de qualquer um que possa ver, incluindo o próprio usuário. Essa habilidade permite manipular como o ambiente e os objetos são percebidos visualmente; (20 de energia)
+• Super Precisão e Super Resistência: O stand possui precisão extrema em qualquer ação realizada, além de resistir a danos de forma superior.
+• Alcance de 1m
+POWER: B | SPEED: C | RANGE: E | DURABILITY: A | PRECISION: A | POTENTIAL: C
+
+Century Greensleeves
+Habilidades
+• Unificação: O usuário pode "unificar" sua colisão com a de outro corpo, criando um efeito similar ao "fling" do Roblox. Esse "fling" pode ser manipulado levemente pelo usuário, permitindo ajustes na direção e intensidade (como se afastar para trás ou entrar no chão, por exemplo). Essa habilidade pode afetar tanto o usuário quanto o outro corpo em colisão; (15 de energia)
+• Stand de vestimenta: O stand pode ser usado como uma vestimenta, permitindo que o usuário aproveite suas habilidades e propriedades de forma mais integrada ao seu corpo.
+POWER: A | SPEED: C | RANGE: ∅ | DURABILITY: A | PRECISION: E | POTENTIAL: C
+
+Rock Bottom
+Habilidades
+• Retroceder: O stand pode conectar seus fios a um corpo danificado e retrocedê-lo para um ponto específico determinado pelo usuário. Esse retrocesso pode afetar tanto a posição do corpo quanto o estado prévio do mesmo (como saúde, energia ou até mesmo memória). A habilidade pode afetar objetos e seres vivos; (10 de energia para objetos / 20 de energia para seres vivos / limite de 6 corpos ao mesmo tempo)
+• Alcance de 3m
+POWER: ∅ | SPEED: B | RANGE: E | DURABILITY: A | PRECISION: E | POTENTIAL: B
+
+To D City
+Habilidades
+• Constantes: TDC pode manter todos os módulos que aplica sobre um objeto de maneira constante e imparável. Isso significa que qualquer efeito aplicado, como arremessar uma bola, não vai parar até que o usuário deseje ou o objeto seja destruído. A habilidade mantém a continuidade do movimento ou efeito sem interrupção até que uma dessas condições aconteça. (15 de energia)
+• Alcance de 25m
+POWER: B | SPEED: B | RANGE: C | DURABILITY: A | PRECISION: A | POTENTIAL: C
+
+Atom Bomb Baby
+Habilidades
+• Clonagem: ABB pode se clonar. Cada clonagem diminui 1 letra do atributo de DUR do stand. O valor do dano recebido por qualquer um dos clones (ou o original) é dividido pela quantidade de clones gerados. (15 de energia por clonagem)
+• So Lonely Baby: Todos os clones de ABB podem se misturar com corpos inanimados, ganhando consciência do que ocorre com esses objetos e produzindo leves movimentos que fazem sentido com o corpo misturado. Os clones podem se comunicar com o original por meio de conexão mental. (10 de energia / 5 de energia para estabelecer conexão mental)
+• Dead Wrong: Caso desejado, quando o stand está misturado com um objeto, o corpo pode se explodir junto com o clone, causando uma explosão que leva consigo o alvo tocado por um clone de ABB (ou o original) e/ou seu usuário. A explosão causa 5d20+25 de dano. (40 de energia)
+• Quantidade e não Qualidade: Para rolar danos, ABB pode atacar com seus clones, aumentando o dano. O dano é aumentado em +3 por clone utilizado no ataque.
+• Atributo aprimorado: O valor de DUR de ABB sempre possui +3.
+• Alcance de 20m
+POWER: C | SPEED: B | RANGE: C | DURABILITY: A | PRECISION: D | POTENTIAL: A
+
+Moon Flower
+Habilidades
+• Ocupação de mesmo lugar: Quando o usuário ou Moon Flower tocam algo, podem fazer com que aquele corpo ocupe o mesmo lugar de outro corpo. Isso permite que Moon Flower seja usado para colocar pessoas em locais onde normalmente não caberiam por ter outro corpo naquele espaço. (15 de energia)
+• Redimensionar para encaixar: Com o toque (do usuário ou do stand), Moon Flower pode fazer com que o corpo tocado se ajuste ao espaço disponível, como se estivesse sendo redimensionado para caber exatamente naquele local (semelhante a um "ctrl + t"). (10 de energia / dura até o corpo sair do local onde foi necessário redimensionar)
+• Alcance de 2m
+POWER: C | SPEED: B | RANGE: E | DURABILITY: A | PRECISION: C | POTENTIAL: A
+
+Hang Fire
+Manifestação: Calça vermelha com amuletos japoneses de papel espalhados por toda a calça.
+Quantidade de Amuletos: 7 (os amuletos especiais não contam para esse limite)
+Habilidades
+• Imortalidade: O usuário de Hang Fire se torna incapaz de morrer de formas comuns. No entanto, se algo perfurar seu umbigo, a morte do usuário se torna inevitável. (não gasta energia)
+• Amuletos: Os amuletos gerados pelo stand podem se grudar em qualquer coisa e, quando o usuário desejar, eles podem entrar em combustão, causando um dano de 2d20+25 devido ao calor de chamas de até 700°C.
+(10 de energia para entrar em combustão / o usuário pode cessar as chamas a qualquer momento)
+Caso deseje, o usuário pode queimar apenas o objeto que o amuleto toca sem causar danos ao resto.
+• Reposição de Amuletos: Após o uso de um amuleto, ele leva 2 turnos para ser reposto na calça. Porém, o usuário pode gerar um amuleto instantaneamente com um esforço extra.
+(não gasta energia para reposição normal / 15 de energia para gerar um amuleto instantâneo)
+• Bafo do Dragão Ancião: Um amuleto especial pode ser gerado na calça. Quando usado, ele causa uma explosão de 4d20+28 de dano no alvo afetado.
+(25 de energia / 10 turnos de cooldown para regeneração)
+• Canto da Fênix: Caso alguém se machuque (incluindo o próprio usuário), um amuleto especial pode ser gerado na calça. Quando usado, uma chama não prejudicial se ergue no local do ferimento e um canto de fênix soa. Após isso, o ferimento é curado e, se algum membro foi perdido, ele é recuperado.
+(5 de energia para ferimentos leves / 10 de energia para ferimentos médios / 20 de energia para ferimentos graves)
+• Interação com stands: O usuário pode interagir com outros stands sem desvantagens.
+POWER: ? | SPEED: ∅ | RANGE: ∅ | DURABILITY: E | PRECISION: E | POTENTIAL: B
+
+Rag 'n Bone
+Habilidades
+• Only Human: Força o usuário a permanecer como humano. O usuário sempre será apenas um humano.
+• Maybe I'm Foolish: Quando o stand ou o usuário entram em contato com algum ser vivo consciente, eles podem fazê-lo enxergar através de mentiras, atuações, etc., aumentando o mod de SAB (Sabedoria) em 1 LETRA para testes de percepção. (20 de energia / Duração de 3 turnos gerais ou 1 hora fora de combate)
+• Maybe I'm Blind: Quando o stand ou o usuário entram em contato com algum ser vivo consciente, eles podem fazê-lo ficar cego para qualquer tipo de indireta, surpresa, etc., reduzindo o mod de SAB em 1 LETRA para testes de percepção. (20 de energia / Duração de 2 turnos gerais ou 30 minutos fora de combate)
+• Some people got the real problems: Quando o usuário ou o stand interagem com alguém, o usuário pode absorver conhecimentos de medos e traumas da pessoa, recebendo -10 de SAN (Sanidade) e +20 de vida ou energia. (10 de energia)
+• Some people out of luck: Quando o usuário ou o stand interagem com alguém, o usuário pode saber se a pessoa tem boa sorte ou não. Caso a pessoa não tenha boa sorte, o usuário pode conceder +3 na próxima rolagem de sorte. (15 de energia)
+• Some people think I can solve them: Quando o usuário ou o stand interagem com alguém e realizam um teste bem-sucedido de CAR (Carisma), o usuário pode fazer com que essa pessoa confie mais nele, recebendo +3 em CAR para testes de ACALMAR e DIPLOMACIA. (20 de energia)
+• 'Cause I'm only human after all: O usuário, quando em uma situação de desvantagem racial, pode rolar o mesmo teste duas vezes e pegar o maior valor.
+• Don't put your blame on me: Quando o usuário ou o stand interagem com alguém de uma raça diferente de humano, ele pode fazer com que a pessoa se torne humana, recebendo as características de um humano e perdendo sua racial original. (25 de energia / Duração de 5 turnos gerais)
+POWER: ∅ | SPEED: B | RANGE: ? | DURABILITY: B | PRECISION: ∅ | POTENTIAL: A
+
+Sailor's Hornpipe
+Habilidades
+• Canos de vapor: Em qualquer tipo de superfície que Sailor's Hornpipe toque, ele pode criar um cano de até 30cm de comprimento e 5cm de diâmetro que pode soltar vapor. Esse vapor pode ser usado para:
+    Névoa de vapor: Ao usar toda a capacidade do cano, ele libera uma quantidade de vapor suficiente para cobrir um local de raio de 20m. Nesse local, TODOS perdem 1 LETRA de SAB e devem rolar duas vezes testes de mobilidade (e pegar o menor valor). (15 de energia)
+    Vapor sólido: Os canos podem liberar vapor sólido, que possui DUR C, em alta velocidade B e POWER B. (10 de energia)
+    Ferramentas de Vapor: Os canos podem liberar vapor em formato de algo que o usuário pense (ferramenta), o objeto funcionará uma única vez. (10 de energia / +5 de energia para aumentar a quantidade de usos)
+• Conversão rápida: Sailor's Hornpipe pode usar qualquer cano de seu corpo para aspirar vapor do ambiente e transformá-lo em água (estado líquido / sólido). (5 de energia - precisa de vapor no ambiente - vapor de Sailor's Hornpipe não conta)
+• Super Aspirada: Quando for aspirar gases, Sailor's Hornpipe pode rolar com mod. de 28 em POWER.
+Alcance de 5m
+POWER: C | SPEED: B | RANGE: D | DURABILITY: A | PRECISION: D | POTENTIAL: B
+
+Cab Driver
+Habilidades
+• Frisbee: Cab Driver pode criar Frisbees com o material que toca no momento em que usa a habilidade. (10 de energia)
+• Frisbee Cortante: Cab Driver, ao tocar em objetos metálicos, pode criar Frisbees extremamente cortantes que cortam tudo que for de FIS/DUR C ou menor sem rolagens. Caso tente cortar algo com FIS/DUR B ou maior e falhar, o Frisbee se quebra. (15 de energia)
+• Frisbees estáticos: Cab Driver pode fazer seus Frisbees ficarem parados em qualquer lugar, mas permanecendo girando.
+• Super Precisão: O usuário tem uma grande precisão ao lançar ou controlar os Frisbees criados, permitindo ataques extremamente detalhados e certeiros. (5 de energia por Frisbee)
+• Alcance de 2m
+POWER: C | SPEED: B | RANGE: E | DURABILITY: C | PRECISION: A | POTENTIAL: B
+
+Raindrops Keep Fallin on My Head
+Habilidades
+• Gotas que envolvem: O stand assume a forma de gotas de chuva. Caso essas gotas se aglomerem em um alvo, elas podem “limpar” uma característica física daquele corpo envolvido. A água que sai possui uma coloração, como se estivesse carregando a sujeira. Se o alvo beber a água, as características retornam ao corpo original. (10 de energia por característica retirada - equivalente a 1 LETRA em caso de atributos)
+• Zé Gotinha Cura: Quando os “Zé Gotinha” se aglomeram sobre um machucado, uma cura é realizada, derrubando a “água suja do machucado” no chão. Caso alguém beba a água suja, o machucado será transferido para essa pessoa, e o dano recebido será proporcional ao dano dado no primeiro corpo. (Cura de 2d9 + Quantidade de Zé Gotinha (Máx. 10))
+• Over the Rainbow: O stand pode se unir em um único stand com outra personalidade e atributos. Esse stand tem a habilidade de misturar/fundir objetos sólidos com líquidos que saem de suas mãos. Após ser derrotado ou quando o usuário cancelar a habilidade, os objetos se separam, mas ficam danificados. (20 de energia por mistura)
+• Dano do usuário: O dano total que será causado no usuário será determinado pela rolagem normal dos stands, mas com o valor final dividido por 4 (arredondado para baixo).
+• Alcance de 201m
+ZÉ GOTINHA:
+POWER: ∅ | SPEED: B | RANGE: A | DURABILITY: C | PRECISION: D | POTENTIAL: C
+ZÉ GOTÃO:
+POWER: A | SPEED: D | RANGE: A | DURABILITY: A | PRECISION: E | POTENTIAL: ?
+
+Moving Waves
+Habilidades
+• Flintlock gruda: O stand pode lançar a ponta laranja de seu flintlock, fazendo-a se grudar em um alvo localizado a até 140m do usuário, ligada por uma corda extremamente resistente (DUR A). (5 de energia)
+• Puxar / Ser Puxado: A corda de Moving Waves pode puxar o usuário até o objeto ou levar o objeto até o usuário em alta velocidade (SPEED A). (5 de energia)
+• Atravessar: O disparo de Moving Waves pode atravessar um corpo específico determinado pelo usuário e, assim, pode prendê-lo na corda. (5 de energia)
+• Alcance de 2m (pistola) / 140m (corda)
+POWER: D | SPEED: A | RANGE: E | DURABILITY: B | PRECISION: ∅ | POTENTIAL: C
+
+Fine Young Cannibal』 Usuário: Canibalus
+Habilidades
+• Risco: Com os dedos pontiagudos de FYC, ele pode riscar qualquer corpo material (stands não contam). Com isso, ele pode ativar as seguintes habilidades:
+    Cicatrização: O risco de FYC é cicatrizado e qualquer injúria presente no local riscado é cicatrizada junto; (10 de energia)
+    "Disco Arranhado": O corpo riscado por FYC irá retroceder 1 ação e repetí-la, entretanto, seus valores de FIS / POW e AGI / SPD serão aprimorados em 1 patamar (limite de super); (20 de energia)
+    Ampliação de injúria: O risco de FYC, caso passado em uma injúria qualquer em um corpo, pode ampliar a gravidade da injúria em 1 patamar, causando 2d20 direto na vida; (25 de energia) 
+• Evolução forçada: O potencial de FYC é notório, mesmo não sendo extremamente apto à evolução, algumas exclusivas circunstâncias fazem com que o potencial de FYC seja considerado A e, seu "teor evolutivo" é incrementado;
+• Alcance de 2m
+POWER: D | SPEED: B | RANGE: E | DURABILITY: C | PRECISION: A | POTENTIAL: B
+
+CRAZY STUPID LOVE
+Habilidades
+• Digitais: CSL pode deixar marcas de suas mãos em qualquer tipo de corpo (stands / habilidades não contam - a não ser que algo diga o contrário). Ao colocar suas digitais em algo, pode acionar as seguintes habilidades:
+• Digital Magnética: Quando alguma coisa estiver tocando no corpo onde há Digitais de CSL, o stand pode fazer com que a parte do corpo mais parecida com uma mão OU mais próxima da digital seja levada de forma natural e fique grudada na mesma posição da digital deixada. A partir desse momento, CSL pode armazenar a digital do alvo da habilidade (um uso); (10 de energia)
+• Manifestação rápida: CSL transforma alguma de suas Digitais em um portal que apenas A MÃO QUE ATIVOU A HABILIDADE (DE CSL) pode passar. Com isso, ele pode realizar ações simples à distância, como segurar coisas ou puxá-las para dentro do portal (para isso o corpo deve ser menor ou igual ao tamanho da mão do stand); (20 de energia)
+• Tapa na Cara: Quando CSL dá um tapa na cara de um alvo, o usuário pode fazer com que a próxima rolagem de CAR do alvo tenha um debuff de -3; (10 de energia)
+• Desfibrilador: CSL pode esfregar suas mãos com rapidez, tornando-as um desfibrilador. O POW de CSL é aprimorada em 1 PATAMAR e recebendo propriedades de um desfibrilador; (10 de energia / 1 turno para carregar)
+• Super Tato
+• Alcance de 7m
+POWER: C | SPEED: A | RANGE: D | DURABILITY: A | PRECISION: C | POTENTIAL: B
+
+Cruel Bloom
+Cruel Bloom se manifesta como uma tartaruga adornada de jóias de cores pálidas com uma flor de lótus rosada fechada no topo de seu casco.
+Habilidades
+• Plantar: Cruel Bloom pode vomitar uma semente em qualquer lugar (incluindo stands); (10 de energia)
+• Florescer: Cruel Bloom pode fazer com que uma ou mais sementes plantadas floresçam, dando vida a uma lótus para cada semente. O florescer dessas lótus permite que Cruel Bloom realize as seguintes opções:
+• Copiar: A lótus que cresce no corpo pode copiar qualquer característica/propriedade desse corpo e replicá-la em outra lótus dentro do raio de alcance de Cruel Bloom; (10 de energia)
+• Roubar: A lótus se apropria da característica/propriedade do corpo, direcionando-a temporariamente a qualquer outro corpo que possua uma lótus florescida; (15 de energia / dura até que o usuário de Cruel Bloom fique inconsciente, o combate se encerre, o usuário desative a habilidade, o corpo original seja destruído ou colocado fora de combate, ou algo cancele a habilidade à força).
+• Desabrochar: A lótus no casco de Cruel Bloom pode se desabrochar, o que torna o stand passível a receber as propriedades roubadas/copiadas (tendo um limite de DUAS características e / ou propriedades); (5 de energia)
+• Modo Aquático: Em ambientes com água, o valor de SPEED de Cruel Bloom é considerado como base C;
+• Super Resistência
+O Florescer e Desabrochar de Cruel Bloom (e de suas habilidades) é INSTANTÂNEO, ou seja, não precisa de rolagens para realizar a ação, uma vez que a(s) habilidade(s) é(são) ativa(s).
+As lótus que florescem com a habilidade de Cruel Bloom só desabrocham quando recebem ou perdem (ou são copiadas) características ou propriedades. A lótus torna-se mais viva ao desabrochar quando recebe algo, enquanto torna-se mais morta caso tenha sido copiada ou roubada.
+No caso de roubo de ATRIBUTOS, Cruel Bloom pode roubar, no máximo, DOIS PATAMARES, gastando até 2 vezes o valor da habilidade para isso. Em caso de cópia, Cruel Bloom apenas replica os valores com um único gasto.
+Cruel Bloom é passível de diversas evoluções de suas habilidades devido à sua alta versatilidade e potencial de desenvolvimento.
+• Alcance de 50m
+POWER: E | SPEED: D | RANGE: B | DURABILITY: A | PRECISION: C | POTENTIAL: A
+
+Depeche Mode
+Depeche Mode tem a aparência de um carangueijo-ferradura. Com cores metálicas e, nas pontas de suas patas, há minúsculos tênis esportivos.
+Habilidades
+• Enterrar: Depeche Mode pode se enterrar em qualquer tipo de corpo (stands não contam) sem causar perturbações em volta (e não causa dor), deixando apenas sua carapaça exposta (que muda de cor para ser compatível com o terreno em que se enterrou);
+• Escavar Memórias: Depeche Mode pode, com suas patas, puxar qualquer pertence de qualquer memória criada no local onde foi enterrado. O usuário consegue ver até 3 memórias por vez e pode escolher puxar qualquer uma delas; (10 de energia)
+• O Fato da Memória: O pertence puxado por Depeche Mode replica perfeitamente o que foi realizado na memória escavada (adaptado para o presente). Por exemplo, caso seja puxada uma arma que, na memória, matou uma pessoa, a arma irá matar uma pessoa, não importando se alguém puxou o gatilho ou não.
+• Lembrete: Por se tratar de um escavador de memórias, Depeche Mode pode, ao entrar em contato com alguém, escavar memórias referentes a essa pessoa e fazê-la lembrar de algo que tenha esquecido; (5 de energia)
+• Carapaça: A carapaça que cobre a parte superior de Depeche Mode possui Super Resistência, ou seja, todo dano causado nessa carapaça deve ser considerado um teste que usa sua Super Resistência. Porém, isso não se aplica à parte inferior do stand.
+• Alcance de 10m
+POWER: E | SPEED: B | RANGE: C | DURABILITY: C | PRECISION: A | POTENTIAL: A
