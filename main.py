@@ -4,8 +4,11 @@ from discord.ext import commands
 import random
 import re
 import pandas as pd
+# dicionário portugues para pegar 3 palavras e soltar a boa
+# pesquisador de nome de música aleatoria para dar ideia de nome de stand
 
 # <---VARIÁVEIS--->
+
 
 # setup
 intents = discord.Intents.default()
@@ -75,19 +78,40 @@ async def stand(ctx):
     user = ctx.author.mention
 
     try:
+        # Lendo os nomes dos stands
         with open('stands.txt', 'r', encoding='utf-8') as arquivo_stand:
             stands = arquivo_stand.read().split(", ")
             stand_sorteado = random.choice(stands).strip()
 
-            await ctx.send(
-                f"⭐ Seu espírito evoluiu, sua mente e seu corpo se fortaleceram.\n"
-                f"{user} acaba de despertar 🔥: \n"
-                f"**『{stand_sorteado}』** 💋\n"
-            )
+        # Tentando encontrar a descrição do stand sorteado
+        try:
+            with open('descricao.txt', 'r', encoding='utf-8') as arquivo_descricao:
+                descricao = arquivo_descricao.read()
+
+                stand_inicio = descricao.find(stand_sorteado)
+                if stand_inicio == -1:
+                    descricao_final = "Descrição não encontrada."
+                else:
+                    stand_fim = descricao.find('\n\n', stand_inicio + len(stand_sorteado))
+                    if stand_fim == -1:
+                        stand_fim = len(descricao)
+                    descricao_final = descricao[stand_inicio:stand_fim].strip()
+        except FileNotFoundError:
+            descricao_final = "Arquivo de descrição não encontrado."
+        except Exception as e:
+            descricao_final = f"Erro ao buscar descrição: {e}"
+
+        # Enviando a mensagem com o stand sorteado e a descrição
+        await ctx.send(
+            f"⭐ Seu espírito evoluiu, sua mente e seu corpo se fortaleceram.\n"
+            f"{user} acaba de despertar 🔥: \n"
+            f"**『{stand_sorteado}』** 💋\n"
+            f"📝 Descrição: \n```\n{descricao_final}\n```"
+        )
     except FileNotFoundError:
-        await ctx.send(f"⚠️ **Erro:** Arquivo não encontrado.")
+        await ctx.send(f"⚠️ **Erro:** Arquivo de stands não encontrado.")
     except Exception as e:
-        await ctx.send(f"⚠️ **Erro:** {e}")
+        await ctx.send(f"⚠️ **Erro inesperado:** {e}")
 
 # comando de buscar descrição de stand
 @bot.command(name="info")

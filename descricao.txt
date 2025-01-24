@@ -194,9 +194,7 @@ Habilidades
 • Apagar = Aceleração: The Hand pode apagar o espaço entre seu punho e o alvo (desde que esteja dentro do alcance do stand) e realizar uma ação com SPEED A. (15 de energia)
 • Triplo Apagar: The Hand pode realizar um combo de 3 Apagar com poder diminuído (2d20+10 direto na vida do alvo), gastando menos energia. O combo é realizado sucessivamente, ou seja, não pode apagar uma vez, esperar, e apagar mais duas vezes, mas pode reduzir a quantidade de Apagar realizados (não torna a habilidade mais barata). (15 de energia)
 • Barragem de Apagamento: The Hand pode realizar uma barragem usando sua mão direita para apagar o espaço entre o alvo e o punho do stand, acelerando o ritmo da barragem (SPEED A). O dano da barragem recebe +3d20+10, causados diretamente na vida do alvo (não acerta pontos vitais). (Gasto da barragem + 30 de energia)
-
-Alcance: 2m
-
+• Alcance: 2m
 POWER: B | SPEED: B | RANGE: E | DURABILITY: B | PRECISION: C | POTENTIAL: C
 
 Echoes ATO 1
@@ -559,7 +557,7 @@ Habilidades
 • Alcance de 15m
 POWER: D | SPEED: C | RANGE: C | DURABILITY: B | PRECISION: C | POTENTIAL: C
 
-Listen to My Rhythm (Boku no Rhythm wo Kiitekure)
+Listen To My Rhythm (Boku no Rhythm wo Kiitekure)
 Habilidades
 • Pinos Explosivos: Ao entrar em contato com qualquer coisa, o stand ou o usuário podem colocar um pino que, caso seja removido, o usuário deseje ou o limite de tempo (imposto pelo usuário) seja atingido, causa uma explosão. A explosão causa danos graves (POW B) e, se for a queima-roupa, os danos aumentam para (POW A). Se o pino for colocado em um líquido, o nível de destruição diminui (POW C), mas se o líquido for transformado em gás, o pino pode continuar ativo (caso o usuário deseje); (10 de energia / 15 para manter em estado de evaporação)
 • Mobilidade: O stand sempre se manifestará nas costas do usuário. O stand não se move ou sai de perto do usuário em momento algum, mas pode mover seus braços pelo corpo dele, sem sair das costas.
