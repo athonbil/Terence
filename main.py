@@ -8,7 +8,15 @@ import pandas as pd
 # pesquisador de nome de música aleatoria para dar ideia de nome de stand
 
 # <---VARIÁVEIS--->
-
+pericias = {
+    "fisico": ["Atletismo ", "Fôlego ", "Resistência Física"],
+    "agilidade": ["Prestidigitação ", "Acrobacia ", "Pickpocket ", "Quick Draw"],
+    "precisao": ["Furtividade ", "Desenhar ", "Dançar ", "Mirar ", "Desviar "],
+    "inteligencia": ["Concentração ", "Religião ", "História ", "Lidar com Máquinas ", "Intuição ", "Aprender"],
+    "sabedoria": ["Medicina", "Lidar com Animais", "Percepção", "Natureza", "Ensinar"],
+    "carisma": ["Atuação ", "Mentir ", "Intimidação ", "Sedução ", "Diplomacia ", "JISM(i) "],
+    "sorte": ["Jogar"]
+}
 
 # setup
 intents = discord.Intents.default()
@@ -71,6 +79,73 @@ async def roll(ctx, dado: str):
         )
     except Exception as e:
         await ctx.send(f"⚠️ **Erro:** {e}")
+
+# comando mostar modificador
+@bot.command(name="mod")
+async def mod(ctx):
+    await ctx.send(
+        f"# Modificadores\n"
+        f"**ATRIBUTOS\n**"
+        f"• A: +25\n"
+        f"• B: +20\n"
+        f"• C: +15\n"
+        f"• D: +10\n"
+        f"• E: +5\n"
+        f"• ∅: 0\n\n"
+        f"**PERÍCIAS**\n"
+        f"• Todas as perícias adicionam um bônus de +3 ao atributo correspondente quando rolado.\n\n"
+        f"**SUPER ATRIBUTOS**\n"
+        f"• Concedem um bônus de **+3** ao atributo\n"
+        f"• Em caso de empate, quem possui um **Super Atributo** é considerado o vencedor.\n\n"
+        f"**HÍPER ATRIBUTOS**\n"
+        f"• Concedem um bônus adicional de +5 ao atributo.\n"
+        f"• Em caso de empate com um Super Atributo, o Híper Atributo é o vencedor.\n"
+        f"• Caso a disputa seja entre um **Híper Atributo** e um atributo comum (sem modificadores especiais), o **Híper Atributo** vence automaticamente."   
+    )
+
+# comando para mostrar pericias
+@bot.command(name="pericias")
+async def pericias_command(ctx, atributo: str = None):
+    if not atributo:
+        await ctx.send(
+            "Por favor, digite `$pericias <atributo>` para listar as perícias.\n"
+            "Atributos disponíveis:\n"
+            "- 🐒 geral\n"
+            "- 🦾 fisico\n"
+            "- 💨 agilidade\n"
+            "- 🎯 precisao\n"
+            "- 🤓 inteligencia\n"
+            "- 🧙‍♂️ sabedoria\n"
+            "- 👳‍♂️ carisma\n"
+            "- 😎 sorte"
+        )
+        return
+
+    user = ctx.author.mention
+
+    if atributo.lower() == "geral":
+        todas_pericias = "\n".join(
+            [f"**{chave.capitalize()}**: {', '.join(valores)}" for chave, valores in pericias.items()]
+        )
+        await ctx.send(f"{user} Aqui estão todas as perícias:\n\n{todas_pericias}")
+
+    elif atributo.lower() in pericias:
+        lista_pericias = ", ".join(pericias[atributo.lower()])
+        await ctx.send(f"{user} As perícias de **{atributo.capitalize()}** são:\n{lista_pericias}")
+    else:
+
+        await ctx.send(
+            f"{user} Atributo não existe. Escolha um dos seguintes:\n"
+            "- geral\n"
+            "- fisico\n"
+            "- agilidade\n"
+            "- precisao\n"
+            "- inteligencia\n"
+            "- sabedoria\n"
+            "- carisma\n"
+            "- sorte"
+        )
+
 
 # comando de rolar stand
 @bot.command(name="stand")
